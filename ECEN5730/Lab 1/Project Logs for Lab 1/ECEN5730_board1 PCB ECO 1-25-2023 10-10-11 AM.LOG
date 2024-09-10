@@ -1,0 +1,15 @@
+Change Component Comment : Designator=R4 Old Comment=1M New Comment=10k
+Change Component Comment : Designator=R7 Old Comment=1M New Comment=47 Ohms
+Change component parameters: Designator = "R4" ("R4"); Footprint = "1206_Passive_Resitor"; UniqueID = "\VLXNDMPH" ("\VLXNDMPH")
+Change component parameters (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF1206FT10K0/1759669"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part#"; Value = "C17902"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR Part #"; Value = "RMCF1206FT10K0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10KOhm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7" ("R7"); Footprint = "1206_Passive_Resitor"; UniqueID = "\HYEMICDT" ("\HYEMICDT")
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811101020_UNI-ROYAL-Uniroyal-Elec-1206W4J0470T5E_C25384.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part#"; Value = "C25384"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR Part #"; Value = "1206W4J0470T5E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47Ohm"; VariantName = "[No Variations]"
+Added Room: Name=Lab1

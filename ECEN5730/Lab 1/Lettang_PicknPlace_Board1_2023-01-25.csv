@@ -1,0 +1,36 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\Projects\Lab 1\Project Outputs for Board1\Pick Place for ECEN5730_board1.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       25/01/23
+Time:       10:54
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"U1","NE555DR","TopLayer","TS555IDTTR","680.000","720.000","360","555 Timer SOIC-8_150MIL ROHS 150ns Rise Time"
+"TP4","TP Trig","TopLayer","TP10x_Probe","690.000","400.000","360","Test Point 300 mil centers"
+"TP3","TP 1K LED","TopLayer","TP10x_Probe","2490.000","500.000","360","Test Point 300 mil centers"
+"TP2","TP 555 Out","TopLayer","TP10x_Probe","1470.000","580.000","360","Test Point 300 mil centers"
+"TP1","TP_5V","TopLayer","TP10x_Probe","410.000","1420.000","180","Test Point 300 mil centers"
+"SW2","SW LEDs","TopLayer","2Pin-Header-Conn","1850.000","800.000","360","2Pin Header"
+"SW1","SW 555","TopLayer","2Pin-Header-Conn","560.000","1050.000","270","2Pin Header"
+"R7","47 Ohms","TopLayer","1206_Passive_Resitor","3100.000","200.000","90","47O ±5% 0.25W ±200ppm/? 1206 Chip Resistor - Surface Mount RoHS"
+"R6","300 Ohm","TopLayer","1206_Passive_Resitor","2820.000","200.000","90","CHIP RESISTOR - SURFACE MOUNT 300OHMS ±1% 1/4W 1206 ROHS"
+"R5","1k","TopLayer","1206_Passive_Resitor","2500.000","200.000","90","CHIP RESISTOR - SURFACE MOUNT 1KOHMS ±1% 1/4W 1206 ROHS"
+"R4","10k","TopLayer","1206_Passive_Resitor","2200.000","200.000","90","10 kOhms ±5% 0.25W, 1/4W Chip Resistor 1206 (3216 Metric) Automotive AEC-Q200 Thick Film"
+"R3","1k","TopLayer","1206_Passive_Resitor","220.000","460.000","90","CHIP RESISTOR - SURFACE MOUNT 1KOHMS ±1% 1/4W 1206 ROHS"
+"R2","1k","TopLayer","1206_Passive_Resitor","220.000","714.000","90","CHIP RESISTOR - SURFACE MOUNT 1KOHMS ±1% 1/4W 1206 ROHS"
+"R1","1k","TopLayer","1206_Passive_Resitor","1000.000","1480.000","90","CHIP RESISTOR - SURFACE MOUNT 1KOHMS ±1% 1/4W 1206 ROHS"
+"P1","Power Jack","TopLayer","Power_Jack","441.890","1708.465","180","Power Barrel Connector Jack 2.10mm ID (0.083"), 5.50mm OD (0.217") Through Hole, Right Angle"
+"LED5","Red","TopLayer","LED_1206","1000.000","1740.000","270","Red 621~631nm 1206 Light Emitting Diodes (LED) RoHS"
+"LED4","Blue","TopLayer","LED_1206","3100.000","741.000","270","blue 1206  Light Emitting Diodes (LED) ROHS"
+"LED3","Blue","TopLayer","LED_1206","2820.000","741.000","270","blue 1206  Light Emitting Diodes (LED) ROHS"
+"LED2","Blue","TopLayer","LED_1206","2500.000","741.000","270","blue 1206  Light Emitting Diodes (LED) ROHS"
+"LED1","Blue","TopLayer","LED_1206","2200.000","740.000","270","blue 1206  Light Emitting Diodes (LED) ROHS"
+"C3","1uF","TopLayer","1206_Passive_Capacitor","220.000","200.000","90","MULTILAYER CERAMIC CAPACITORS MLCC - SMD/SMT 1UF 50V 1206 ROHS"
+"C2","22uF","TopLayer","1206_Passive_Capacitor","835.000","1000.000","180","22uF ±10% 25V X5R 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS"
+"C1","22uF","TopLayer","1206_Passive_Capacitor","780.000","1740.000","90","22uF ±10% 25V X5R 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS"

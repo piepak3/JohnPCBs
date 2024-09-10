@@ -1,0 +1,25 @@
+Added Component: Designator=R6(1206_Passive_Resitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-1206W4F0000T5E_C17888.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C17888"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "1206W4F0000T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser link"; Value = "https://www.mouser.com/ProductDetail/Royalohm/1206W4F0000T5E?qs=e8oIoAS2J1Thbopin%252BsagQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10kOhm"; VariantName = "[No Variations]"
+Added Component: Designator=R7(1206_Passive_Resitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-1206W4F0000T5E_C17888.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C17888"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "1206W4F0000T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser link"; Value = "https://www.mouser.com/ProductDetail/Royalohm/1206W4F0000T5E?qs=e8oIoAS2J1Thbopin%252BsagQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10kOhm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V Pin=R6-2
+Added Pin To Net: NetName=3.3V Pin=R7-1
+Added Pin To Net: NetName=NetPM2.5_6 Pin=PM2.5-6
+Added Pin To Net: NetName=NetPM2.5_6 Pin=R6-1
+Added Net: Name=NetPM2.5_6
+Added Pin To Net: NetName=NetPM2.5_9 Pin=PM2.5-9
+Added Pin To Net: NetName=NetPM2.5_9 Pin=R7-2
+Added Net: Name=NetPM2.5_9
+Added Member To Class: ClassName=node Member=Component R6 220 Ohm
+Added Member To Class: ClassName=node Member=Component R7 220 Ohm
+Added Member To Class: ClassName=node Member=Component RESET TL3305AF160QG

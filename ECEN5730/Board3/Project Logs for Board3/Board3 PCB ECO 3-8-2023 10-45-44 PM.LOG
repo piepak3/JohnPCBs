@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=ArdVcc Pin=LED4-1
+Removed Pin From Net: NetName=ArdVcc Pin=LED5-1
+Added Pin To Net: NetName=Vcc Pin=LED4-1
+Added Pin To Net: NetName=Vcc Pin=LED5-1
+Added Member To Class: ClassName=Board3 Member=Component C3 22pF
+Added Member To Class: ClassName=Board3 Member=Component C4 22pF
+Added Member To Class: ClassName=Board3 Member=Component C11 22uF
+Added Member To Class: ClassName=Board3 Member=Component C13 22uF
+Added Member To Class: ClassName=Board3 Member=Component C14 22pF
+Added Member To Class: ClassName=Board3 Member=Component TP3 16MHz
+Added Room: Name=Board3

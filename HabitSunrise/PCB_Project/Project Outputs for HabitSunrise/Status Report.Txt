@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [HabitSunrise.PrjPcb]
+   Generated File[Pick Place for LED.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 11:12:39 AM On 4/6/2024

@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\rylan\OneDrive - UCB-O365\Documents\Altium\Sensor_node\node.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=node-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=node-slotholes.txt|DrillLayers=gtl,gbl

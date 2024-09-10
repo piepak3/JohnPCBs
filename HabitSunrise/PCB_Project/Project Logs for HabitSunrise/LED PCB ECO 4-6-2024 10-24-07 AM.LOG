@@ -1,0 +1,13 @@
+Change Component Designator: OldDesignator=1K NewDesignator=R1
+Change Component Designator: OldDesignator=5V NewDesignator=TP2
+Change Component Designator: OldDesignator=22uF NewDesignator=C86
+Change Component Designator: OldDesignator=Strip1 NewDesignator=TP1
+Change Component Designator: OldDesignator=Strip2 NewDesignator=TP3
+Added Component: Designator=H1(AlignmentHole_1.5mm)
+Added Component: Designator=H2(AlignmentHole_1.5mm)
+Added Component: Designator=H3(AlignmentHole_1.5mm)
+Added Component: Designator=H4(AlignmentHole_1.5mm)
+Added Member To Class: ClassName=SmartLEDS Member=Component H1 Stencil Hole
+Added Member To Class: ClassName=SmartLEDS Member=Component H2 Stencil Hole
+Added Member To Class: ClassName=SmartLEDS Member=Component H3 Stencil Hole
+Added Member To Class: ClassName=SmartLEDS Member=Component H4 Stencil Hole

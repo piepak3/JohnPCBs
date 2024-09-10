@@ -1,0 +1,1320 @@
+Added Component: Designator=C1(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C2(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C3(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C4(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C5(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C6(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C7(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C8(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C9(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C10(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C11(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C12(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C13(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C14(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C15(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C16(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C17(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C18(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C19(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C20(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C21(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C22(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C23(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C24(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C25(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C26(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C27(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C28(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C29(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C30(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C31(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C32(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C33(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C34(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C35(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C36(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C37(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C38(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C39(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C40(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C41(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C42(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C43(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C44(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C45(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C46(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C47(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C48(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C49(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C50(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C51(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C52(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C53(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C54(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C55(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C56(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C57(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C58(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C59(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C60(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C61(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C62(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C63(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C64(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=D1(SERIAL_LED - duplicate)
+Add component (AddParameter): Name = "DataSheet"; Value = "https://datasheet.lcsc.com/lcsc/2301111130_XINGLIGHT-XL-5050RGBC-WS2812B_C2843785.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C2843785"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "XL-5050RGBC-WS2812B"; VariantName = "[No Variations]"
+Added Component: Designator=D2(SERIAL_LED - duplicate)
+Add component (AddParameter): Name = "DataSheet"; Value = "https://datasheet.lcsc.com/lcsc/2301111130_XINGLIGHT-XL-5050RGBC-WS2812B_C2843785.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C2843785"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "XL-5050RGBC-WS2812B"; VariantName = "[No Variations]"
+Added Component: Designator=D3(SERIAL_LED - duplicate)
+Add component (AddParameter): Name = "DataSheet"; Value = "https://datasheet.lcsc.com/lcsc/2301111130_XINGLIGHT-XL-5050RGBC-WS2812B_C2843785.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C2843785"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "XL-5050RGBC-WS2812B"; VariantName = "[No Variations]"
+Added Component: Designator=D4(SERIAL_LED - duplicate)
+Add component (AddParameter): Name = "DataSheet"; Value = "https://datasheet.lcsc.com/lcsc/2301111130_XINGLIGHT-XL-5050RGBC-WS2812B_C2843785.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C2843785"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "XL-5050RGBC-WS2812B"; VariantName = "[No Variations]"
+Added Component: Designator=D5(SERIAL_LED - duplicate)
+Add component (AddParameter): Name = "DataSheet"; Value = "https://datasheet.lcsc.com/lcsc/2301111130_XINGLIGHT-XL-5050RGBC-WS2812B_C2843785.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C2843785"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "XL-5050RGBC-WS2812B"; VariantName = "[No Variations]"
+Added Component: Designator=D6(SERIAL_LED - duplicate)
+Add component (AddParameter): Name = "DataSheet"; Value = "https://datasheet.lcsc.com/lcsc/2301111130_XINGLIGHT-XL-5050RGBC-WS2812B_C2843785.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C2843785"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "XL-5050RGBC-WS2812B"; VariantName = "[No Variations]"
+Added Component: Designator=D7(SERIAL_LED - duplicate)
+Add component (AddParameter): Name = "DataSheet"; Value = "https://datasheet.lcsc.com/lcsc/2301111130_XINGLIGHT-XL-5050RGBC-WS2812B_C2843785.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C2843785"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "XL-5050RGBC-WS2812B"; VariantName = "[No Variations]"
+Added Component: Designator=D8(SERIAL_LED - duplicate)
+Add component (AddParameter): Name = "DataSheet"; Value = "https://datasheet.lcsc.com/lcsc/2301111130_XINGLIGHT-XL-5050RGBC-WS2812B_C2843785.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C2843785"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "XL-5050RGBC-WS2812B"; VariantName = "[No Variations]"
+Added Component: Designator=D9(SERIAL_LED - duplicate)
+Add component (AddParameter): Name = "DataSheet"; Value = "https://datasheet.lcsc.com/lcsc/2301111130_XINGLIGHT-XL-5050RGBC-WS2812B_C2843785.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C2843785"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "XL-5050RGBC-WS2812B"; VariantName = "[No Variations]"
+Added Component: Designator=D10(SERIAL_LED - duplicate)
+Add component (AddParameter): Name = "DataSheet"; Value = "https://datasheet.lcsc.com/lcsc/2301111130_XINGLIGHT-XL-5050RGBC-WS2812B_C2843785.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C2843785"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "XL-5050RGBC-WS2812B"; VariantName = "[No Variations]"
+Added Component: Designator=D11(SERIAL_LED - duplicate)
+Add component (AddParameter): Name = "DataSheet"; Value = "https://datasheet.lcsc.com/lcsc/2301111130_XINGLIGHT-XL-5050RGBC-WS2812B_C2843785.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C2843785"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "XL-5050RGBC-WS2812B"; VariantName = "[No Variations]"
+Added Component: Designator=D12(SERIAL_LED - duplicate)
+Add component (AddParameter): Name = "DataSheet"; Value = "https://datasheet.lcsc.com/lcsc/2301111130_XINGLIGHT-XL-5050RGBC-WS2812B_C2843785.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C2843785"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "XL-5050RGBC-WS2812B"; VariantName = "[No Variations]"
+Added Component: Designator=D13(SERIAL_LED - duplicate)
+Add component (AddParameter): Name = "DataSheet"; Value = "https://datasheet.lcsc.com/lcsc/2301111130_XINGLIGHT-XL-5050RGBC-WS2812B_C2843785.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C2843785"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "XL-5050RGBC-WS2812B"; VariantName = "[No Variations]"
+Added Component: Designator=D14(SERIAL_LED - duplicate)
+Add component (AddParameter): Name = "DataSheet"; Value = "https://datasheet.lcsc.com/lcsc/2301111130_XINGLIGHT-XL-5050RGBC-WS2812B_C2843785.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C2843785"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "XL-5050RGBC-WS2812B"; VariantName = "[No Variations]"
+Added Component: Designator=D15(SERIAL_LED - duplicate)
+Add component (AddParameter): Name = "DataSheet"; Value = "https://datasheet.lcsc.com/lcsc/2301111130_XINGLIGHT-XL-5050RGBC-WS2812B_C2843785.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C2843785"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "XL-5050RGBC-WS2812B"; VariantName = "[No Variations]"
+Added Component: Designator=D16(SERIAL_LED - duplicate)
+Add component (AddParameter): Name = "DataSheet"; Value = "https://datasheet.lcsc.com/lcsc/2301111130_XINGLIGHT-XL-5050RGBC-WS2812B_C2843785.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C2843785"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "XL-5050RGBC-WS2812B"; VariantName = "[No Variations]"
+Added Component: Designator=D17(SERIAL_LED - duplicate)
+Add component (AddParameter): Name = "DataSheet"; Value = "https://datasheet.lcsc.com/lcsc/2301111130_XINGLIGHT-XL-5050RGBC-WS2812B_C2843785.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C2843785"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "XL-5050RGBC-WS2812B"; VariantName = "[No Variations]"
+Added Component: Designator=D18(SERIAL_LED - duplicate)
+Add component (AddParameter): Name = "DataSheet"; Value = "https://datasheet.lcsc.com/lcsc/2301111130_XINGLIGHT-XL-5050RGBC-WS2812B_C2843785.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C2843785"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "XL-5050RGBC-WS2812B"; VariantName = "[No Variations]"
+Added Component: Designator=D19(SERIAL_LED - duplicate)
+Add component (AddParameter): Name = "DataSheet"; Value = "https://datasheet.lcsc.com/lcsc/2301111130_XINGLIGHT-XL-5050RGBC-WS2812B_C2843785.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C2843785"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "XL-5050RGBC-WS2812B"; VariantName = "[No Variations]"
+Added Component: Designator=D20(SERIAL_LED - duplicate)
+Add component (AddParameter): Name = "DataSheet"; Value = "https://datasheet.lcsc.com/lcsc/2301111130_XINGLIGHT-XL-5050RGBC-WS2812B_C2843785.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C2843785"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "XL-5050RGBC-WS2812B"; VariantName = "[No Variations]"
+Added Component: Designator=D21(SERIAL_LED - duplicate)
+Add component (AddParameter): Name = "DataSheet"; Value = "https://datasheet.lcsc.com/lcsc/2301111130_XINGLIGHT-XL-5050RGBC-WS2812B_C2843785.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C2843785"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "XL-5050RGBC-WS2812B"; VariantName = "[No Variations]"
+Added Component: Designator=D22(SERIAL_LED - duplicate)
+Add component (AddParameter): Name = "DataSheet"; Value = "https://datasheet.lcsc.com/lcsc/2301111130_XINGLIGHT-XL-5050RGBC-WS2812B_C2843785.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C2843785"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "XL-5050RGBC-WS2812B"; VariantName = "[No Variations]"
+Added Component: Designator=D23(SERIAL_LED - duplicate)
+Add component (AddParameter): Name = "DataSheet"; Value = "https://datasheet.lcsc.com/lcsc/2301111130_XINGLIGHT-XL-5050RGBC-WS2812B_C2843785.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C2843785"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "XL-5050RGBC-WS2812B"; VariantName = "[No Variations]"
+Added Component: Designator=D24(SERIAL_LED - duplicate)
+Add component (AddParameter): Name = "DataSheet"; Value = "https://datasheet.lcsc.com/lcsc/2301111130_XINGLIGHT-XL-5050RGBC-WS2812B_C2843785.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C2843785"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "XL-5050RGBC-WS2812B"; VariantName = "[No Variations]"
+Added Component: Designator=D25(SERIAL_LED - duplicate)
+Add component (AddParameter): Name = "DataSheet"; Value = "https://datasheet.lcsc.com/lcsc/2301111130_XINGLIGHT-XL-5050RGBC-WS2812B_C2843785.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C2843785"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "XL-5050RGBC-WS2812B"; VariantName = "[No Variations]"
+Added Component: Designator=D26(SERIAL_LED - duplicate)
+Add component (AddParameter): Name = "DataSheet"; Value = "https://datasheet.lcsc.com/lcsc/2301111130_XINGLIGHT-XL-5050RGBC-WS2812B_C2843785.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C2843785"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "XL-5050RGBC-WS2812B"; VariantName = "[No Variations]"
+Added Component: Designator=D27(SERIAL_LED - duplicate)
+Add component (AddParameter): Name = "DataSheet"; Value = "https://datasheet.lcsc.com/lcsc/2301111130_XINGLIGHT-XL-5050RGBC-WS2812B_C2843785.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C2843785"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "XL-5050RGBC-WS2812B"; VariantName = "[No Variations]"
+Added Component: Designator=D28(SERIAL_LED - duplicate)
+Add component (AddParameter): Name = "DataSheet"; Value = "https://datasheet.lcsc.com/lcsc/2301111130_XINGLIGHT-XL-5050RGBC-WS2812B_C2843785.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C2843785"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "XL-5050RGBC-WS2812B"; VariantName = "[No Variations]"
+Added Component: Designator=D29(SERIAL_LED - duplicate)
+Add component (AddParameter): Name = "DataSheet"; Value = "https://datasheet.lcsc.com/lcsc/2301111130_XINGLIGHT-XL-5050RGBC-WS2812B_C2843785.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C2843785"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "XL-5050RGBC-WS2812B"; VariantName = "[No Variations]"
+Added Component: Designator=D30(SERIAL_LED - duplicate)
+Add component (AddParameter): Name = "DataSheet"; Value = "https://datasheet.lcsc.com/lcsc/2301111130_XINGLIGHT-XL-5050RGBC-WS2812B_C2843785.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C2843785"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "XL-5050RGBC-WS2812B"; VariantName = "[No Variations]"
+Added Component: Designator=D31(SERIAL_LED - duplicate)
+Add component (AddParameter): Name = "DataSheet"; Value = "https://datasheet.lcsc.com/lcsc/2301111130_XINGLIGHT-XL-5050RGBC-WS2812B_C2843785.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C2843785"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "XL-5050RGBC-WS2812B"; VariantName = "[No Variations]"
+Added Component: Designator=D32(SERIAL_LED - duplicate)
+Add component (AddParameter): Name = "DataSheet"; Value = "https://datasheet.lcsc.com/lcsc/2301111130_XINGLIGHT-XL-5050RGBC-WS2812B_C2843785.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C2843785"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "XL-5050RGBC-WS2812B"; VariantName = "[No Variations]"
+Added Component: Designator=D33(SERIAL_LED - duplicate)
+Add component (AddParameter): Name = "DataSheet"; Value = "https://datasheet.lcsc.com/lcsc/2301111130_XINGLIGHT-XL-5050RGBC-WS2812B_C2843785.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C2843785"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "XL-5050RGBC-WS2812B"; VariantName = "[No Variations]"
+Added Component: Designator=D34(SERIAL_LED - duplicate)
+Add component (AddParameter): Name = "DataSheet"; Value = "https://datasheet.lcsc.com/lcsc/2301111130_XINGLIGHT-XL-5050RGBC-WS2812B_C2843785.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C2843785"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "XL-5050RGBC-WS2812B"; VariantName = "[No Variations]"
+Added Component: Designator=D35(SERIAL_LED - duplicate)
+Add component (AddParameter): Name = "DataSheet"; Value = "https://datasheet.lcsc.com/lcsc/2301111130_XINGLIGHT-XL-5050RGBC-WS2812B_C2843785.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C2843785"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "XL-5050RGBC-WS2812B"; VariantName = "[No Variations]"
+Added Component: Designator=D36(SERIAL_LED - duplicate)
+Add component (AddParameter): Name = "DataSheet"; Value = "https://datasheet.lcsc.com/lcsc/2301111130_XINGLIGHT-XL-5050RGBC-WS2812B_C2843785.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C2843785"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "XL-5050RGBC-WS2812B"; VariantName = "[No Variations]"
+Added Component: Designator=D37(SERIAL_LED - duplicate)
+Add component (AddParameter): Name = "DataSheet"; Value = "https://datasheet.lcsc.com/lcsc/2301111130_XINGLIGHT-XL-5050RGBC-WS2812B_C2843785.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C2843785"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "XL-5050RGBC-WS2812B"; VariantName = "[No Variations]"
+Added Component: Designator=D38(SERIAL_LED - duplicate)
+Add component (AddParameter): Name = "DataSheet"; Value = "https://datasheet.lcsc.com/lcsc/2301111130_XINGLIGHT-XL-5050RGBC-WS2812B_C2843785.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C2843785"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "XL-5050RGBC-WS2812B"; VariantName = "[No Variations]"
+Added Component: Designator=D39(SERIAL_LED - duplicate)
+Add component (AddParameter): Name = "DataSheet"; Value = "https://datasheet.lcsc.com/lcsc/2301111130_XINGLIGHT-XL-5050RGBC-WS2812B_C2843785.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C2843785"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "XL-5050RGBC-WS2812B"; VariantName = "[No Variations]"
+Added Component: Designator=D40(SERIAL_LED - duplicate)
+Add component (AddParameter): Name = "DataSheet"; Value = "https://datasheet.lcsc.com/lcsc/2301111130_XINGLIGHT-XL-5050RGBC-WS2812B_C2843785.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C2843785"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "XL-5050RGBC-WS2812B"; VariantName = "[No Variations]"
+Added Component: Designator=D41(SERIAL_LED - duplicate)
+Add component (AddParameter): Name = "DataSheet"; Value = "https://datasheet.lcsc.com/lcsc/2301111130_XINGLIGHT-XL-5050RGBC-WS2812B_C2843785.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C2843785"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "XL-5050RGBC-WS2812B"; VariantName = "[No Variations]"
+Added Component: Designator=D42(SERIAL_LED - duplicate)
+Add component (AddParameter): Name = "DataSheet"; Value = "https://datasheet.lcsc.com/lcsc/2301111130_XINGLIGHT-XL-5050RGBC-WS2812B_C2843785.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C2843785"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "XL-5050RGBC-WS2812B"; VariantName = "[No Variations]"
+Added Component: Designator=D43(SERIAL_LED - duplicate)
+Add component (AddParameter): Name = "DataSheet"; Value = "https://datasheet.lcsc.com/lcsc/2301111130_XINGLIGHT-XL-5050RGBC-WS2812B_C2843785.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C2843785"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "XL-5050RGBC-WS2812B"; VariantName = "[No Variations]"
+Added Component: Designator=D44(SERIAL_LED - duplicate)
+Add component (AddParameter): Name = "DataSheet"; Value = "https://datasheet.lcsc.com/lcsc/2301111130_XINGLIGHT-XL-5050RGBC-WS2812B_C2843785.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C2843785"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "XL-5050RGBC-WS2812B"; VariantName = "[No Variations]"
+Added Component: Designator=D45(SERIAL_LED - duplicate)
+Add component (AddParameter): Name = "DataSheet"; Value = "https://datasheet.lcsc.com/lcsc/2301111130_XINGLIGHT-XL-5050RGBC-WS2812B_C2843785.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C2843785"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "XL-5050RGBC-WS2812B"; VariantName = "[No Variations]"
+Added Component: Designator=D46(SERIAL_LED - duplicate)
+Add component (AddParameter): Name = "DataSheet"; Value = "https://datasheet.lcsc.com/lcsc/2301111130_XINGLIGHT-XL-5050RGBC-WS2812B_C2843785.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C2843785"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "XL-5050RGBC-WS2812B"; VariantName = "[No Variations]"
+Added Component: Designator=D47(SERIAL_LED - duplicate)
+Add component (AddParameter): Name = "DataSheet"; Value = "https://datasheet.lcsc.com/lcsc/2301111130_XINGLIGHT-XL-5050RGBC-WS2812B_C2843785.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C2843785"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "XL-5050RGBC-WS2812B"; VariantName = "[No Variations]"
+Added Component: Designator=D48(SERIAL_LED - duplicate)
+Add component (AddParameter): Name = "DataSheet"; Value = "https://datasheet.lcsc.com/lcsc/2301111130_XINGLIGHT-XL-5050RGBC-WS2812B_C2843785.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C2843785"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "XL-5050RGBC-WS2812B"; VariantName = "[No Variations]"
+Added Component: Designator=D49(SERIAL_LED - duplicate)
+Add component (AddParameter): Name = "DataSheet"; Value = "https://datasheet.lcsc.com/lcsc/2301111130_XINGLIGHT-XL-5050RGBC-WS2812B_C2843785.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C2843785"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "XL-5050RGBC-WS2812B"; VariantName = "[No Variations]"
+Added Component: Designator=D50(SERIAL_LED - duplicate)
+Add component (AddParameter): Name = "DataSheet"; Value = "https://datasheet.lcsc.com/lcsc/2301111130_XINGLIGHT-XL-5050RGBC-WS2812B_C2843785.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C2843785"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "XL-5050RGBC-WS2812B"; VariantName = "[No Variations]"
+Added Component: Designator=D51(SERIAL_LED - duplicate)
+Add component (AddParameter): Name = "DataSheet"; Value = "https://datasheet.lcsc.com/lcsc/2301111130_XINGLIGHT-XL-5050RGBC-WS2812B_C2843785.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C2843785"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "XL-5050RGBC-WS2812B"; VariantName = "[No Variations]"
+Added Component: Designator=D52(SERIAL_LED - duplicate)
+Add component (AddParameter): Name = "DataSheet"; Value = "https://datasheet.lcsc.com/lcsc/2301111130_XINGLIGHT-XL-5050RGBC-WS2812B_C2843785.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C2843785"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "XL-5050RGBC-WS2812B"; VariantName = "[No Variations]"
+Added Component: Designator=D53(SERIAL_LED - duplicate)
+Add component (AddParameter): Name = "DataSheet"; Value = "https://datasheet.lcsc.com/lcsc/2301111130_XINGLIGHT-XL-5050RGBC-WS2812B_C2843785.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C2843785"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "XL-5050RGBC-WS2812B"; VariantName = "[No Variations]"
+Added Component: Designator=D54(SERIAL_LED - duplicate)
+Add component (AddParameter): Name = "DataSheet"; Value = "https://datasheet.lcsc.com/lcsc/2301111130_XINGLIGHT-XL-5050RGBC-WS2812B_C2843785.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C2843785"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "XL-5050RGBC-WS2812B"; VariantName = "[No Variations]"
+Added Component: Designator=D55(SERIAL_LED - duplicate)
+Add component (AddParameter): Name = "DataSheet"; Value = "https://datasheet.lcsc.com/lcsc/2301111130_XINGLIGHT-XL-5050RGBC-WS2812B_C2843785.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C2843785"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "XL-5050RGBC-WS2812B"; VariantName = "[No Variations]"
+Added Component: Designator=D56(SERIAL_LED - duplicate)
+Add component (AddParameter): Name = "DataSheet"; Value = "https://datasheet.lcsc.com/lcsc/2301111130_XINGLIGHT-XL-5050RGBC-WS2812B_C2843785.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C2843785"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "XL-5050RGBC-WS2812B"; VariantName = "[No Variations]"
+Added Component: Designator=D57(SERIAL_LED - duplicate)
+Add component (AddParameter): Name = "DataSheet"; Value = "https://datasheet.lcsc.com/lcsc/2301111130_XINGLIGHT-XL-5050RGBC-WS2812B_C2843785.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C2843785"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "XL-5050RGBC-WS2812B"; VariantName = "[No Variations]"
+Added Component: Designator=D58(SERIAL_LED - duplicate)
+Add component (AddParameter): Name = "DataSheet"; Value = "https://datasheet.lcsc.com/lcsc/2301111130_XINGLIGHT-XL-5050RGBC-WS2812B_C2843785.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C2843785"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "XL-5050RGBC-WS2812B"; VariantName = "[No Variations]"
+Added Component: Designator=D59(SERIAL_LED - duplicate)
+Add component (AddParameter): Name = "DataSheet"; Value = "https://datasheet.lcsc.com/lcsc/2301111130_XINGLIGHT-XL-5050RGBC-WS2812B_C2843785.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C2843785"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "XL-5050RGBC-WS2812B"; VariantName = "[No Variations]"
+Added Component: Designator=D60(SERIAL_LED - duplicate)
+Add component (AddParameter): Name = "DataSheet"; Value = "https://datasheet.lcsc.com/lcsc/2301111130_XINGLIGHT-XL-5050RGBC-WS2812B_C2843785.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C2843785"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "XL-5050RGBC-WS2812B"; VariantName = "[No Variations]"
+Added Component: Designator=D61(SERIAL_LED - duplicate)
+Add component (AddParameter): Name = "DataSheet"; Value = "https://datasheet.lcsc.com/lcsc/2301111130_XINGLIGHT-XL-5050RGBC-WS2812B_C2843785.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C2843785"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "XL-5050RGBC-WS2812B"; VariantName = "[No Variations]"
+Added Component: Designator=D62(SERIAL_LED - duplicate)
+Add component (AddParameter): Name = "DataSheet"; Value = "https://datasheet.lcsc.com/lcsc/2301111130_XINGLIGHT-XL-5050RGBC-WS2812B_C2843785.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C2843785"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "XL-5050RGBC-WS2812B"; VariantName = "[No Variations]"
+Added Component: Designator=D63(SERIAL_LED - duplicate)
+Add component (AddParameter): Name = "DataSheet"; Value = "https://datasheet.lcsc.com/lcsc/2301111130_XINGLIGHT-XL-5050RGBC-WS2812B_C2843785.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C2843785"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "XL-5050RGBC-WS2812B"; VariantName = "[No Variations]"
+Added Component: Designator=D64(SERIAL_LED - duplicate)
+Add component (AddParameter): Name = "DataSheet"; Value = "https://datasheet.lcsc.com/lcsc/2301111130_XINGLIGHT-XL-5050RGBC-WS2812B_C2843785.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C2843785"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "XL-5050RGBC-WS2812B"; VariantName = "[No Variations]"
+Added Component: Designator=J(3_PIN_100mil)
+Add component (AddParameter): Name = "LCSC PART#"; Value = "C49257"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR PART #"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "5-146281-3"; VariantName = "[No Variations]"
+Added Component: Designator=LED1(LED_1206)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/szlcsc/1811151241_Everlight-Elec-15-21-R6C-FQ1R1B-2T_C93133.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C93133"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "15-21/R6C-FQ1R1B/2T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Red"; VariantName = "[No Variations]"
+Added Component: Designator=R1(1206_Passive_Resitor)
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/product-detail/en/RNCP1206FTD1K00/RNCP1206FTD1K00CT-ND/2240675/?itemSeq=304982373"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C4410"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "RNCP1206FTD1K00CT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=TP1(TP10x_Probe)
+Added Component: Designator=TP2(TP10x_Probe)
+Added Pin To Net: NetName=+5 Pin=C1-2
+Added Pin To Net: NetName=+5 Pin=C2-2
+Added Pin To Net: NetName=+5 Pin=C3-2
+Added Pin To Net: NetName=+5 Pin=C4-2
+Added Pin To Net: NetName=+5 Pin=C5-2
+Added Pin To Net: NetName=+5 Pin=C6-2
+Added Pin To Net: NetName=+5 Pin=C7-2
+Added Pin To Net: NetName=+5 Pin=C8-2
+Added Pin To Net: NetName=+5 Pin=C9-2
+Added Pin To Net: NetName=+5 Pin=C10-2
+Added Pin To Net: NetName=+5 Pin=C11-2
+Added Pin To Net: NetName=+5 Pin=C12-2
+Added Pin To Net: NetName=+5 Pin=C13-2
+Added Pin To Net: NetName=+5 Pin=C14-2
+Added Pin To Net: NetName=+5 Pin=C15-2
+Added Pin To Net: NetName=+5 Pin=C16-2
+Added Pin To Net: NetName=+5 Pin=C17-2
+Added Pin To Net: NetName=+5 Pin=C18-2
+Added Pin To Net: NetName=+5 Pin=C19-2
+Added Pin To Net: NetName=+5 Pin=C20-2
+Added Pin To Net: NetName=+5 Pin=C21-2
+Added Pin To Net: NetName=+5 Pin=C22-2
+Added Pin To Net: NetName=+5 Pin=C23-2
+Added Pin To Net: NetName=+5 Pin=C24-2
+Added Pin To Net: NetName=+5 Pin=C25-2
+Added Pin To Net: NetName=+5 Pin=C26-2
+Added Pin To Net: NetName=+5 Pin=C27-2
+Added Pin To Net: NetName=+5 Pin=C28-2
+Added Pin To Net: NetName=+5 Pin=C29-2
+Added Pin To Net: NetName=+5 Pin=C30-2
+Added Pin To Net: NetName=+5 Pin=C31-2
+Added Pin To Net: NetName=+5 Pin=C32-2
+Added Pin To Net: NetName=+5 Pin=C33-2
+Added Pin To Net: NetName=+5 Pin=C34-2
+Added Pin To Net: NetName=+5 Pin=C35-2
+Added Pin To Net: NetName=+5 Pin=C36-2
+Added Pin To Net: NetName=+5 Pin=C37-2
+Added Pin To Net: NetName=+5 Pin=C38-2
+Added Pin To Net: NetName=+5 Pin=C39-2
+Added Pin To Net: NetName=+5 Pin=C40-2
+Added Pin To Net: NetName=+5 Pin=C41-2
+Added Pin To Net: NetName=+5 Pin=C42-2
+Added Pin To Net: NetName=+5 Pin=C43-2
+Added Pin To Net: NetName=+5 Pin=C44-2
+Added Pin To Net: NetName=+5 Pin=C45-2
+Added Pin To Net: NetName=+5 Pin=C46-2
+Added Pin To Net: NetName=+5 Pin=C47-2
+Added Pin To Net: NetName=+5 Pin=C48-2
+Added Pin To Net: NetName=+5 Pin=C49-2
+Added Pin To Net: NetName=+5 Pin=C50-2
+Added Pin To Net: NetName=+5 Pin=C51-2
+Added Pin To Net: NetName=+5 Pin=C52-2
+Added Pin To Net: NetName=+5 Pin=C53-2
+Added Pin To Net: NetName=+5 Pin=C54-2
+Added Pin To Net: NetName=+5 Pin=C55-2
+Added Pin To Net: NetName=+5 Pin=C56-2
+Added Pin To Net: NetName=+5 Pin=C57-2
+Added Pin To Net: NetName=+5 Pin=C58-2
+Added Pin To Net: NetName=+5 Pin=C59-2
+Added Pin To Net: NetName=+5 Pin=C60-2
+Added Pin To Net: NetName=+5 Pin=C61-2
+Added Pin To Net: NetName=+5 Pin=C62-2
+Added Pin To Net: NetName=+5 Pin=C63-2
+Added Pin To Net: NetName=+5 Pin=C64-2
+Added Pin To Net: NetName=+5 Pin=D1-1
+Added Pin To Net: NetName=+5 Pin=D2-1
+Added Pin To Net: NetName=+5 Pin=D3-1
+Added Pin To Net: NetName=+5 Pin=D4-1
+Added Pin To Net: NetName=+5 Pin=D5-1
+Added Pin To Net: NetName=+5 Pin=D6-1
+Added Pin To Net: NetName=+5 Pin=D7-1
+Added Pin To Net: NetName=+5 Pin=D8-1
+Added Pin To Net: NetName=+5 Pin=D9-1
+Added Pin To Net: NetName=+5 Pin=D10-1
+Added Pin To Net: NetName=+5 Pin=D11-1
+Added Pin To Net: NetName=+5 Pin=D12-1
+Added Pin To Net: NetName=+5 Pin=D13-1
+Added Pin To Net: NetName=+5 Pin=D14-1
+Added Pin To Net: NetName=+5 Pin=D15-1
+Added Pin To Net: NetName=+5 Pin=D16-1
+Added Pin To Net: NetName=+5 Pin=D17-1
+Added Pin To Net: NetName=+5 Pin=D18-1
+Added Pin To Net: NetName=+5 Pin=D19-1
+Added Pin To Net: NetName=+5 Pin=D20-1
+Added Pin To Net: NetName=+5 Pin=D21-1
+Added Pin To Net: NetName=+5 Pin=D22-1
+Added Pin To Net: NetName=+5 Pin=D23-1
+Added Pin To Net: NetName=+5 Pin=D24-1
+Added Pin To Net: NetName=+5 Pin=D25-1
+Added Pin To Net: NetName=+5 Pin=D26-1
+Added Pin To Net: NetName=+5 Pin=D27-1
+Added Pin To Net: NetName=+5 Pin=D28-1
+Added Pin To Net: NetName=+5 Pin=D29-1
+Added Pin To Net: NetName=+5 Pin=D30-1
+Added Pin To Net: NetName=+5 Pin=D31-1
+Added Pin To Net: NetName=+5 Pin=D32-1
+Added Pin To Net: NetName=+5 Pin=D33-1
+Added Pin To Net: NetName=+5 Pin=D34-1
+Added Pin To Net: NetName=+5 Pin=D35-1
+Added Pin To Net: NetName=+5 Pin=D36-1
+Added Pin To Net: NetName=+5 Pin=D37-1
+Added Pin To Net: NetName=+5 Pin=D38-1
+Added Pin To Net: NetName=+5 Pin=D39-1
+Added Pin To Net: NetName=+5 Pin=D40-1
+Added Pin To Net: NetName=+5 Pin=D41-1
+Added Pin To Net: NetName=+5 Pin=D42-1
+Added Pin To Net: NetName=+5 Pin=D43-1
+Added Pin To Net: NetName=+5 Pin=D44-1
+Added Pin To Net: NetName=+5 Pin=D45-1
+Added Pin To Net: NetName=+5 Pin=D46-1
+Added Pin To Net: NetName=+5 Pin=D47-1
+Added Pin To Net: NetName=+5 Pin=D48-1
+Added Pin To Net: NetName=+5 Pin=D49-1
+Added Pin To Net: NetName=+5 Pin=D50-1
+Added Pin To Net: NetName=+5 Pin=D51-1
+Added Pin To Net: NetName=+5 Pin=D52-1
+Added Pin To Net: NetName=+5 Pin=D53-1
+Added Pin To Net: NetName=+5 Pin=D54-1
+Added Pin To Net: NetName=+5 Pin=D55-1
+Added Pin To Net: NetName=+5 Pin=D56-1
+Added Pin To Net: NetName=+5 Pin=D57-1
+Added Pin To Net: NetName=+5 Pin=D58-1
+Added Pin To Net: NetName=+5 Pin=D59-1
+Added Pin To Net: NetName=+5 Pin=D60-1
+Added Pin To Net: NetName=+5 Pin=D61-1
+Added Pin To Net: NetName=+5 Pin=D62-1
+Added Pin To Net: NetName=+5 Pin=D63-1
+Added Pin To Net: NetName=+5 Pin=D64-1
+Added Pin To Net: NetName=+5 Pin=J-3
+Added Pin To Net: NetName=+5 Pin=R1-2
+Added Pin To Net: NetName=+5 Pin=TP2-1
+Added Net: Name=+5
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C17-1
+Added Pin To Net: NetName=GND Pin=C18-1
+Added Pin To Net: NetName=GND Pin=C19-1
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=GND Pin=C21-1
+Added Pin To Net: NetName=GND Pin=C22-1
+Added Pin To Net: NetName=GND Pin=C23-1
+Added Pin To Net: NetName=GND Pin=C24-1
+Added Pin To Net: NetName=GND Pin=C25-1
+Added Pin To Net: NetName=GND Pin=C26-1
+Added Pin To Net: NetName=GND Pin=C27-1
+Added Pin To Net: NetName=GND Pin=C28-1
+Added Pin To Net: NetName=GND Pin=C29-1
+Added Pin To Net: NetName=GND Pin=C30-1
+Added Pin To Net: NetName=GND Pin=C31-1
+Added Pin To Net: NetName=GND Pin=C32-1
+Added Pin To Net: NetName=GND Pin=C33-1
+Added Pin To Net: NetName=GND Pin=C34-1
+Added Pin To Net: NetName=GND Pin=C35-1
+Added Pin To Net: NetName=GND Pin=C36-1
+Added Pin To Net: NetName=GND Pin=C37-1
+Added Pin To Net: NetName=GND Pin=C38-1
+Added Pin To Net: NetName=GND Pin=C39-1
+Added Pin To Net: NetName=GND Pin=C40-1
+Added Pin To Net: NetName=GND Pin=C41-1
+Added Pin To Net: NetName=GND Pin=C42-1
+Added Pin To Net: NetName=GND Pin=C43-1
+Added Pin To Net: NetName=GND Pin=C44-1
+Added Pin To Net: NetName=GND Pin=C45-1
+Added Pin To Net: NetName=GND Pin=C46-1
+Added Pin To Net: NetName=GND Pin=C47-1
+Added Pin To Net: NetName=GND Pin=C48-1
+Added Pin To Net: NetName=GND Pin=C49-1
+Added Pin To Net: NetName=GND Pin=C50-1
+Added Pin To Net: NetName=GND Pin=C51-1
+Added Pin To Net: NetName=GND Pin=C52-1
+Added Pin To Net: NetName=GND Pin=C53-1
+Added Pin To Net: NetName=GND Pin=C54-1
+Added Pin To Net: NetName=GND Pin=C55-1
+Added Pin To Net: NetName=GND Pin=C56-1
+Added Pin To Net: NetName=GND Pin=C57-1
+Added Pin To Net: NetName=GND Pin=C58-1
+Added Pin To Net: NetName=GND Pin=C59-1
+Added Pin To Net: NetName=GND Pin=C60-1
+Added Pin To Net: NetName=GND Pin=C61-1
+Added Pin To Net: NetName=GND Pin=C62-1
+Added Pin To Net: NetName=GND Pin=C63-1
+Added Pin To Net: NetName=GND Pin=C64-1
+Added Pin To Net: NetName=GND Pin=D1-3
+Added Pin To Net: NetName=GND Pin=D2-3
+Added Pin To Net: NetName=GND Pin=D3-3
+Added Pin To Net: NetName=GND Pin=D4-3
+Added Pin To Net: NetName=GND Pin=D5-3
+Added Pin To Net: NetName=GND Pin=D6-3
+Added Pin To Net: NetName=GND Pin=D7-3
+Added Pin To Net: NetName=GND Pin=D8-3
+Added Pin To Net: NetName=GND Pin=D9-3
+Added Pin To Net: NetName=GND Pin=D10-3
+Added Pin To Net: NetName=GND Pin=D11-3
+Added Pin To Net: NetName=GND Pin=D12-3
+Added Pin To Net: NetName=GND Pin=D13-3
+Added Pin To Net: NetName=GND Pin=D14-3
+Added Pin To Net: NetName=GND Pin=D15-3
+Added Pin To Net: NetName=GND Pin=D16-3
+Added Pin To Net: NetName=GND Pin=D17-3
+Added Pin To Net: NetName=GND Pin=D18-3
+Added Pin To Net: NetName=GND Pin=D19-3
+Added Pin To Net: NetName=GND Pin=D20-3
+Added Pin To Net: NetName=GND Pin=D21-3
+Added Pin To Net: NetName=GND Pin=D22-3
+Added Pin To Net: NetName=GND Pin=D23-3
+Added Pin To Net: NetName=GND Pin=D24-3
+Added Pin To Net: NetName=GND Pin=D25-3
+Added Pin To Net: NetName=GND Pin=D26-3
+Added Pin To Net: NetName=GND Pin=D27-3
+Added Pin To Net: NetName=GND Pin=D28-3
+Added Pin To Net: NetName=GND Pin=D29-3
+Added Pin To Net: NetName=GND Pin=D30-3
+Added Pin To Net: NetName=GND Pin=D31-3
+Added Pin To Net: NetName=GND Pin=D32-3
+Added Pin To Net: NetName=GND Pin=D33-3
+Added Pin To Net: NetName=GND Pin=D34-3
+Added Pin To Net: NetName=GND Pin=D35-3
+Added Pin To Net: NetName=GND Pin=D36-3
+Added Pin To Net: NetName=GND Pin=D37-3
+Added Pin To Net: NetName=GND Pin=D38-3
+Added Pin To Net: NetName=GND Pin=D39-3
+Added Pin To Net: NetName=GND Pin=D40-3
+Added Pin To Net: NetName=GND Pin=D41-3
+Added Pin To Net: NetName=GND Pin=D42-3
+Added Pin To Net: NetName=GND Pin=D43-3
+Added Pin To Net: NetName=GND Pin=D44-3
+Added Pin To Net: NetName=GND Pin=D45-3
+Added Pin To Net: NetName=GND Pin=D46-3
+Added Pin To Net: NetName=GND Pin=D47-3
+Added Pin To Net: NetName=GND Pin=D48-3
+Added Pin To Net: NetName=GND Pin=D49-3
+Added Pin To Net: NetName=GND Pin=D50-3
+Added Pin To Net: NetName=GND Pin=D51-3
+Added Pin To Net: NetName=GND Pin=D52-3
+Added Pin To Net: NetName=GND Pin=D53-3
+Added Pin To Net: NetName=GND Pin=D54-3
+Added Pin To Net: NetName=GND Pin=D55-3
+Added Pin To Net: NetName=GND Pin=D56-3
+Added Pin To Net: NetName=GND Pin=D57-3
+Added Pin To Net: NetName=GND Pin=D58-3
+Added Pin To Net: NetName=GND Pin=D59-3
+Added Pin To Net: NetName=GND Pin=D60-3
+Added Pin To Net: NetName=GND Pin=D61-3
+Added Pin To Net: NetName=GND Pin=D62-3
+Added Pin To Net: NetName=GND Pin=D63-3
+Added Pin To Net: NetName=GND Pin=D64-3
+Added Pin To Net: NetName=GND Pin=J-1
+Added Pin To Net: NetName=GND Pin=LED1-2
+Added Pin To Net: NetName=GND Pin=TP1-2
+Added Pin To Net: NetName=GND Pin=TP1-2
+Added Pin To Net: NetName=GND Pin=TP1-2
+Added Pin To Net: NetName=GND Pin=TP2-2
+Added Pin To Net: NetName=GND Pin=TP2-2
+Added Pin To Net: NetName=GND Pin=TP2-2
+Added Net: Name=GND
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=D2-4
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetD1_4 Pin=D1-4
+Added Pin To Net: NetName=NetD1_4 Pin=J-2
+Added Pin To Net: NetName=NetD1_4 Pin=TP1-1
+Added Net: Name=NetD1_4
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_2 Pin=D3-4
+Added Net: Name=NetD2_2
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetD3_2 Pin=D4-4
+Added Net: Name=NetD3_2
+Added Pin To Net: NetName=NetD4_2 Pin=D4-2
+Added Pin To Net: NetName=NetD4_2 Pin=D5-4
+Added Net: Name=NetD4_2
+Added Pin To Net: NetName=NetD5_2 Pin=D5-2
+Added Pin To Net: NetName=NetD5_2 Pin=D6-4
+Added Net: Name=NetD5_2
+Added Pin To Net: NetName=NetD6_2 Pin=D6-2
+Added Pin To Net: NetName=NetD6_2 Pin=D7-4
+Added Net: Name=NetD6_2
+Added Pin To Net: NetName=NetD7_2 Pin=D7-2
+Added Pin To Net: NetName=NetD7_2 Pin=D8-4
+Added Net: Name=NetD7_2
+Added Pin To Net: NetName=NetD8_2 Pin=D8-2
+Added Pin To Net: NetName=NetD8_2 Pin=D9-4
+Added Net: Name=NetD8_2
+Added Pin To Net: NetName=NetD9_2 Pin=D9-2
+Added Pin To Net: NetName=NetD9_2 Pin=D10-4
+Added Net: Name=NetD9_2
+Added Pin To Net: NetName=NetD10_2 Pin=D10-2
+Added Pin To Net: NetName=NetD10_2 Pin=D11-4
+Added Net: Name=NetD10_2
+Added Pin To Net: NetName=NetD11_2 Pin=D11-2
+Added Pin To Net: NetName=NetD11_2 Pin=D12-4
+Added Net: Name=NetD11_2
+Added Pin To Net: NetName=NetD12_2 Pin=D12-2
+Added Pin To Net: NetName=NetD12_2 Pin=D13-4
+Added Net: Name=NetD12_2
+Added Pin To Net: NetName=NetD13_2 Pin=D13-2
+Added Pin To Net: NetName=NetD13_2 Pin=D14-4
+Added Net: Name=NetD13_2
+Added Pin To Net: NetName=NetD14_2 Pin=D14-2
+Added Pin To Net: NetName=NetD14_2 Pin=D15-4
+Added Net: Name=NetD14_2
+Added Pin To Net: NetName=NetD15_2 Pin=D15-2
+Added Pin To Net: NetName=NetD15_2 Pin=D16-4
+Added Net: Name=NetD15_2
+Added Pin To Net: NetName=NetD16_2 Pin=D16-2
+Added Pin To Net: NetName=NetD16_2 Pin=D17-4
+Added Net: Name=NetD16_2
+Added Pin To Net: NetName=NetD17_2 Pin=D17-2
+Added Pin To Net: NetName=NetD17_2 Pin=D18-4
+Added Net: Name=NetD17_2
+Added Pin To Net: NetName=NetD18_2 Pin=D18-2
+Added Pin To Net: NetName=NetD18_2 Pin=D19-4
+Added Net: Name=NetD18_2
+Added Pin To Net: NetName=NetD19_2 Pin=D19-2
+Added Pin To Net: NetName=NetD19_2 Pin=D20-4
+Added Net: Name=NetD19_2
+Added Pin To Net: NetName=NetD20_2 Pin=D20-2
+Added Pin To Net: NetName=NetD20_2 Pin=D21-4
+Added Net: Name=NetD20_2
+Added Pin To Net: NetName=NetD21_2 Pin=D21-2
+Added Pin To Net: NetName=NetD21_2 Pin=D22-4
+Added Net: Name=NetD21_2
+Added Pin To Net: NetName=NetD22_2 Pin=D22-2
+Added Pin To Net: NetName=NetD22_2 Pin=D23-4
+Added Net: Name=NetD22_2
+Added Pin To Net: NetName=NetD23_2 Pin=D23-2
+Added Pin To Net: NetName=NetD23_2 Pin=D24-4
+Added Net: Name=NetD23_2
+Added Pin To Net: NetName=NetD24_2 Pin=D24-2
+Added Pin To Net: NetName=NetD24_2 Pin=D25-4
+Added Net: Name=NetD24_2
+Added Pin To Net: NetName=NetD25_2 Pin=D25-2
+Added Pin To Net: NetName=NetD25_2 Pin=D26-4
+Added Net: Name=NetD25_2
+Added Pin To Net: NetName=NetD26_2 Pin=D26-2
+Added Pin To Net: NetName=NetD26_2 Pin=D27-4
+Added Net: Name=NetD26_2
+Added Pin To Net: NetName=NetD27_2 Pin=D27-2
+Added Pin To Net: NetName=NetD27_2 Pin=D28-4
+Added Net: Name=NetD27_2
+Added Pin To Net: NetName=NetD28_2 Pin=D28-2
+Added Pin To Net: NetName=NetD28_2 Pin=D29-4
+Added Net: Name=NetD28_2
+Added Pin To Net: NetName=NetD29_2 Pin=D29-2
+Added Pin To Net: NetName=NetD29_2 Pin=D30-4
+Added Net: Name=NetD29_2
+Added Pin To Net: NetName=NetD30_2 Pin=D30-2
+Added Pin To Net: NetName=NetD30_2 Pin=D31-4
+Added Net: Name=NetD30_2
+Added Pin To Net: NetName=NetD31_2 Pin=D31-2
+Added Pin To Net: NetName=NetD31_2 Pin=D32-4
+Added Net: Name=NetD31_2
+Added Pin To Net: NetName=NetD32_2 Pin=D32-2
+Added Pin To Net: NetName=NetD32_2 Pin=D33-4
+Added Net: Name=NetD32_2
+Added Pin To Net: NetName=NetD33_2 Pin=D33-2
+Added Pin To Net: NetName=NetD33_2 Pin=D34-4
+Added Net: Name=NetD33_2
+Added Pin To Net: NetName=NetD34_2 Pin=D34-2
+Added Pin To Net: NetName=NetD34_2 Pin=D35-4
+Added Net: Name=NetD34_2
+Added Pin To Net: NetName=NetD35_2 Pin=D35-2
+Added Pin To Net: NetName=NetD35_2 Pin=D36-4
+Added Net: Name=NetD35_2
+Added Pin To Net: NetName=NetD36_2 Pin=D36-2
+Added Pin To Net: NetName=NetD36_2 Pin=D37-4
+Added Net: Name=NetD36_2
+Added Pin To Net: NetName=NetD37_2 Pin=D37-2
+Added Pin To Net: NetName=NetD37_2 Pin=D38-4
+Added Net: Name=NetD37_2
+Added Pin To Net: NetName=NetD38_2 Pin=D38-2
+Added Pin To Net: NetName=NetD38_2 Pin=D39-4
+Added Net: Name=NetD38_2
+Added Pin To Net: NetName=NetD39_2 Pin=D39-2
+Added Pin To Net: NetName=NetD39_2 Pin=D40-4
+Added Net: Name=NetD39_2
+Added Pin To Net: NetName=NetD40_2 Pin=D40-2
+Added Pin To Net: NetName=NetD40_2 Pin=D41-4
+Added Net: Name=NetD40_2
+Added Pin To Net: NetName=NetD41_2 Pin=D41-2
+Added Pin To Net: NetName=NetD41_2 Pin=D42-4
+Added Net: Name=NetD41_2
+Added Pin To Net: NetName=NetD42_2 Pin=D42-2
+Added Pin To Net: NetName=NetD42_2 Pin=D43-4
+Added Net: Name=NetD42_2
+Added Pin To Net: NetName=NetD43_2 Pin=D43-2
+Added Pin To Net: NetName=NetD43_2 Pin=D44-4
+Added Net: Name=NetD43_2
+Added Pin To Net: NetName=NetD44_2 Pin=D44-2
+Added Pin To Net: NetName=NetD44_2 Pin=D45-4
+Added Net: Name=NetD44_2
+Added Pin To Net: NetName=NetD45_2 Pin=D45-2
+Added Pin To Net: NetName=NetD45_2 Pin=D46-4
+Added Net: Name=NetD45_2
+Added Pin To Net: NetName=NetD46_2 Pin=D46-2
+Added Pin To Net: NetName=NetD46_2 Pin=D47-4
+Added Net: Name=NetD46_2
+Added Pin To Net: NetName=NetD47_2 Pin=D47-2
+Added Pin To Net: NetName=NetD47_2 Pin=D48-4
+Added Net: Name=NetD47_2
+Added Pin To Net: NetName=NetD48_2 Pin=D48-2
+Added Pin To Net: NetName=NetD48_2 Pin=D49-4
+Added Net: Name=NetD48_2
+Added Pin To Net: NetName=NetD49_2 Pin=D49-2
+Added Pin To Net: NetName=NetD49_2 Pin=D50-4
+Added Net: Name=NetD49_2
+Added Pin To Net: NetName=NetD50_2 Pin=D50-2
+Added Pin To Net: NetName=NetD50_2 Pin=D51-4
+Added Net: Name=NetD50_2
+Added Pin To Net: NetName=NetD51_2 Pin=D51-2
+Added Pin To Net: NetName=NetD51_2 Pin=D52-4
+Added Net: Name=NetD51_2
+Added Pin To Net: NetName=NetD52_2 Pin=D52-2
+Added Pin To Net: NetName=NetD52_2 Pin=D53-4
+Added Net: Name=NetD52_2
+Added Pin To Net: NetName=NetD53_2 Pin=D53-2
+Added Pin To Net: NetName=NetD53_2 Pin=D54-4
+Added Net: Name=NetD53_2
+Added Pin To Net: NetName=NetD54_2 Pin=D54-2
+Added Pin To Net: NetName=NetD54_2 Pin=D55-4
+Added Net: Name=NetD54_2
+Added Pin To Net: NetName=NetD55_2 Pin=D55-2
+Added Pin To Net: NetName=NetD55_2 Pin=D56-4
+Added Net: Name=NetD55_2
+Added Pin To Net: NetName=NetD56_2 Pin=D56-2
+Added Pin To Net: NetName=NetD56_2 Pin=D57-4
+Added Net: Name=NetD56_2
+Added Pin To Net: NetName=NetD57_2 Pin=D57-2
+Added Pin To Net: NetName=NetD57_2 Pin=D58-4
+Added Net: Name=NetD57_2
+Added Pin To Net: NetName=NetD58_2 Pin=D58-2
+Added Pin To Net: NetName=NetD58_2 Pin=D59-4
+Added Net: Name=NetD58_2
+Added Pin To Net: NetName=NetD59_2 Pin=D59-2
+Added Pin To Net: NetName=NetD59_2 Pin=D60-4
+Added Net: Name=NetD59_2
+Added Pin To Net: NetName=NetD60_2 Pin=D60-2
+Added Pin To Net: NetName=NetD60_2 Pin=D61-4
+Added Net: Name=NetD60_2
+Added Pin To Net: NetName=NetD61_2 Pin=D61-2
+Added Pin To Net: NetName=NetD61_2 Pin=D62-4
+Added Net: Name=NetD61_2
+Added Pin To Net: NetName=NetD62_2 Pin=D62-2
+Added Pin To Net: NetName=NetD62_2 Pin=D63-4
+Added Net: Name=NetD62_2
+Added Pin To Net: NetName=NetD63_2 Pin=D63-2
+Added Pin To Net: NetName=NetD63_2 Pin=D64-4
+Added Net: Name=NetD63_2
+Added Pin To Net: NetName=NetLED1_1 Pin=LED1-1
+Added Pin To Net: NetName=NetLED1_1 Pin=R1-1
+Added Net: Name=NetLED1_1
+Added Member To Class: ClassName=SmartLEDS Member=Component C1 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C2 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C3 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C4 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C5 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C6 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C7 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C8 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C9 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C10 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C11 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C12 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C13 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C14 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C15 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C16 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C17 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C18 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C19 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C20 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C21 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C22 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C23 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C24 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C25 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C26 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C27 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C28 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C29 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C30 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C31 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C32 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C33 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C34 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C35 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C36 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C37 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C38 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C39 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C40 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C41 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C42 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C43 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C44 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C45 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C46 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C47 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C48 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C49 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C50 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C51 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C52 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C53 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C54 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C55 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C56 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C57 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C58 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C59 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C60 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C61 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C62 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C63 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C64 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component D1 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D2 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D3 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D4 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D5 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D6 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D7 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D8 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D9 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D10 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D11 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D12 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D13 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D14 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D15 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D16 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D17 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D18 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D19 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D20 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D21 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D22 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D23 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D24 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D25 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D26 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D27 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D28 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D29 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D30 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D31 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D32 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D33 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D34 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D35 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D36 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D37 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D38 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D39 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D40 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D41 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D42 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D43 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D44 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D45 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D46 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D47 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D48 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D49 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D50 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D51 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D52 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D53 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D54 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D55 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D56 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D57 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D58 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D59 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D60 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D61 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D62 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D63 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D64 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component J JM_3_PIN_MALE
+Added Member To Class: ClassName=SmartLEDS Member=Component LED1 Red
+Added Member To Class: ClassName=SmartLEDS Member=Component R1 1k
+Added Member To Class: ClassName=SmartLEDS Member=Component TP1 10x Probe TP
+Added Member To Class: ClassName=SmartLEDS Member=Component TP2 10x Probe TP

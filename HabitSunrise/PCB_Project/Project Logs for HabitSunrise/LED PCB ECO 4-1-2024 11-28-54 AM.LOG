@@ -1,0 +1,465 @@
+Added Component: Designator=C58(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C86(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C87(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C88(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C35-1
+Added Pin To Net: NetName=+5 Pin=C35-2
+Added Pin To Net: NetName=GND Pin=C36-1
+Added Pin To Net: NetName=+5 Pin=C36-2
+Added Pin To Net: NetName=GND Pin=C37-1
+Added Pin To Net: NetName=+5 Pin=C37-2
+Added Pin To Net: NetName=GND Pin=C38-1
+Added Pin To Net: NetName=+5 Pin=C38-2
+Added Pin To Net: NetName=GND Pin=C39-1
+Added Pin To Net: NetName=+5 Pin=C39-2
+Added Pin To Net: NetName=GND Pin=C40-1
+Added Pin To Net: NetName=+5 Pin=C40-2
+Added Pin To Net: NetName=GND Pin=C41-1
+Added Pin To Net: NetName=+5 Pin=C41-2
+Added Pin To Net: NetName=GND Pin=C42-1
+Added Pin To Net: NetName=+5 Pin=C42-2
+Added Pin To Net: NetName=GND Pin=C43-1
+Added Pin To Net: NetName=+5 Pin=C43-2
+Added Pin To Net: NetName=GND Pin=C44-1
+Added Pin To Net: NetName=+5 Pin=C44-2
+Added Pin To Net: NetName=GND Pin=C45-1
+Added Pin To Net: NetName=+5 Pin=C45-2
+Added Pin To Net: NetName=GND Pin=C46-1
+Added Pin To Net: NetName=+5 Pin=C46-2
+Added Pin To Net: NetName=GND Pin=C47-1
+Added Pin To Net: NetName=+5 Pin=C47-2
+Added Pin To Net: NetName=GND Pin=C48-1
+Added Pin To Net: NetName=+5 Pin=C48-2
+Added Pin To Net: NetName=GND Pin=C49-1
+Added Pin To Net: NetName=+5 Pin=C49-2
+Added Pin To Net: NetName=GND Pin=C50-1
+Added Pin To Net: NetName=+5 Pin=C50-2
+Added Pin To Net: NetName=GND Pin=C51-1
+Added Pin To Net: NetName=+5 Pin=C51-2
+Added Pin To Net: NetName=GND Pin=C52-1
+Added Pin To Net: NetName=+5 Pin=C52-2
+Added Pin To Net: NetName=GND Pin=C53-1
+Added Pin To Net: NetName=+5 Pin=C53-2
+Added Pin To Net: NetName=GND Pin=C54-1
+Added Pin To Net: NetName=+5 Pin=C54-2
+Added Pin To Net: NetName=GND Pin=C55-1
+Added Pin To Net: NetName=+5 Pin=C55-2
+Added Pin To Net: NetName=GND Pin=C56-1
+Added Pin To Net: NetName=+5 Pin=C56-2
+Added Pin To Net: NetName=GND Pin=C57-1
+Added Pin To Net: NetName=+5 Pin=C57-2
+Added Pin To Net: NetName=GND Pin=C58-1
+Added Pin To Net: NetName=+5 Pin=C58-2
+Added Pin To Net: NetName=GND Pin=C59-1
+Added Pin To Net: NetName=+5 Pin=C59-2
+Added Pin To Net: NetName=GND Pin=C60-1
+Added Pin To Net: NetName=+5 Pin=C60-2
+Added Pin To Net: NetName=GND Pin=C61-1
+Added Pin To Net: NetName=+5 Pin=C61-2
+Added Pin To Net: NetName=GND Pin=C62-1
+Added Pin To Net: NetName=+5 Pin=C62-2
+Added Pin To Net: NetName=GND Pin=C63-1
+Added Pin To Net: NetName=+5 Pin=C63-2
+Added Pin To Net: NetName=GND Pin=C64-1
+Added Pin To Net: NetName=+5 Pin=C64-2
+Added Pin To Net: NetName=GND Pin=C65-1
+Added Pin To Net: NetName=+5 Pin=C65-2
+Added Pin To Net: NetName=GND Pin=C66-1
+Added Pin To Net: NetName=+5 Pin=C66-2
+Added Pin To Net: NetName=GND Pin=C67-1
+Added Pin To Net: NetName=+5 Pin=C67-2
+Added Pin To Net: NetName=GND Pin=C68-1
+Added Pin To Net: NetName=+5 Pin=C68-2
+Added Pin To Net: NetName=GND Pin=C69-1
+Added Pin To Net: NetName=+5 Pin=C69-2
+Added Pin To Net: NetName=GND Pin=C70-1
+Added Pin To Net: NetName=+5 Pin=C70-2
+Added Pin To Net: NetName=GND Pin=C71-1
+Added Pin To Net: NetName=+5 Pin=C71-2
+Added Pin To Net: NetName=GND Pin=C72-1
+Added Pin To Net: NetName=+5 Pin=C72-2
+Added Pin To Net: NetName=GND Pin=C73-1
+Added Pin To Net: NetName=+5 Pin=C73-2
+Added Pin To Net: NetName=GND Pin=C74-1
+Added Pin To Net: NetName=+5 Pin=C74-2
+Added Pin To Net: NetName=GND Pin=C75-1
+Added Pin To Net: NetName=+5 Pin=C75-2
+Added Pin To Net: NetName=GND Pin=C76-1
+Added Pin To Net: NetName=+5 Pin=C76-2
+Added Pin To Net: NetName=GND Pin=C77-1
+Added Pin To Net: NetName=+5 Pin=C77-2
+Added Pin To Net: NetName=GND Pin=C78-1
+Added Pin To Net: NetName=+5 Pin=C78-2
+Added Pin To Net: NetName=GND Pin=C79-1
+Added Pin To Net: NetName=+5 Pin=C79-2
+Added Pin To Net: NetName=GND Pin=C80-1
+Added Pin To Net: NetName=+5 Pin=C80-2
+Added Pin To Net: NetName=GND Pin=C81-1
+Added Pin To Net: NetName=+5 Pin=C81-2
+Added Pin To Net: NetName=GND Pin=C82-1
+Added Pin To Net: NetName=+5 Pin=C82-2
+Added Pin To Net: NetName=GND Pin=C86-1
+Added Pin To Net: NetName=+5 Pin=C86-2
+Added Pin To Net: NetName=GND Pin=C87-1
+Added Pin To Net: NetName=+5 Pin=C87-2
+Added Pin To Net: NetName=GND Pin=C88-1
+Added Pin To Net: NetName=+5 Pin=C88-2
+Added Pin To Net: NetName=+5 Pin=D35-1
+Added Pin To Net: NetName=NetD35_2 Pin=D35-2
+Added Pin To Net: NetName=GND Pin=D35-3
+Added Pin To Net: NetName=NetD34_2 Pin=D35-4
+Added Pin To Net: NetName=+5 Pin=D36-1
+Added Pin To Net: NetName=NetD36_2 Pin=D36-2
+Added Pin To Net: NetName=GND Pin=D36-3
+Added Pin To Net: NetName=NetD35_2 Pin=D36-4
+Added Pin To Net: NetName=+5 Pin=D37-1
+Added Pin To Net: NetName=NetD37_2 Pin=D37-2
+Added Pin To Net: NetName=GND Pin=D37-3
+Added Pin To Net: NetName=NetD36_2 Pin=D37-4
+Added Pin To Net: NetName=+5 Pin=D38-1
+Added Pin To Net: NetName=NetD38_2 Pin=D38-2
+Added Pin To Net: NetName=GND Pin=D38-3
+Added Pin To Net: NetName=NetD37_2 Pin=D38-4
+Added Pin To Net: NetName=+5 Pin=D39-1
+Added Pin To Net: NetName=NetD39_2 Pin=D39-2
+Added Pin To Net: NetName=GND Pin=D39-3
+Added Pin To Net: NetName=NetD38_2 Pin=D39-4
+Added Pin To Net: NetName=+5 Pin=D40-1
+Added Pin To Net: NetName=NetD40_2 Pin=D40-2
+Added Pin To Net: NetName=GND Pin=D40-3
+Added Pin To Net: NetName=NetD39_2 Pin=D40-4
+Added Pin To Net: NetName=+5 Pin=D41-1
+Added Pin To Net: NetName=NetD41_2 Pin=D41-2
+Added Pin To Net: NetName=GND Pin=D41-3
+Added Pin To Net: NetName=NetD40_2 Pin=D41-4
+Added Pin To Net: NetName=+5 Pin=D42-1
+Added Pin To Net: NetName=NetD42_2 Pin=D42-2
+Added Pin To Net: NetName=GND Pin=D42-3
+Added Pin To Net: NetName=NetD41_2 Pin=D42-4
+Added Pin To Net: NetName=+5 Pin=D43-1
+Added Pin To Net: NetName=NetD43_2 Pin=D43-2
+Added Pin To Net: NetName=GND Pin=D43-3
+Added Pin To Net: NetName=NetD42_2 Pin=D43-4
+Added Pin To Net: NetName=+5 Pin=D44-1
+Added Pin To Net: NetName=NetD44_2 Pin=D44-2
+Added Pin To Net: NetName=GND Pin=D44-3
+Added Pin To Net: NetName=NetD43_2 Pin=D44-4
+Added Pin To Net: NetName=+5 Pin=D45-1
+Added Pin To Net: NetName=NetD45_2 Pin=D45-2
+Added Pin To Net: NetName=GND Pin=D45-3
+Added Pin To Net: NetName=NetD44_2 Pin=D45-4
+Added Pin To Net: NetName=+5 Pin=D46-1
+Added Pin To Net: NetName=NetD46_2 Pin=D46-2
+Added Pin To Net: NetName=GND Pin=D46-3
+Added Pin To Net: NetName=NetD45_2 Pin=D46-4
+Added Pin To Net: NetName=+5 Pin=D47-1
+Added Pin To Net: NetName=NetD47_2 Pin=D47-2
+Added Pin To Net: NetName=GND Pin=D47-3
+Added Pin To Net: NetName=NetD46_2 Pin=D47-4
+Added Pin To Net: NetName=+5 Pin=D48-1
+Added Pin To Net: NetName=NetD48_2 Pin=D48-2
+Added Pin To Net: NetName=GND Pin=D48-3
+Added Pin To Net: NetName=NetD47_2 Pin=D48-4
+Added Pin To Net: NetName=+5 Pin=D49-1
+Added Pin To Net: NetName=NetD49_2 Pin=D49-2
+Added Pin To Net: NetName=GND Pin=D49-3
+Added Pin To Net: NetName=NetD48_2 Pin=D49-4
+Added Pin To Net: NetName=+5 Pin=D50-1
+Added Pin To Net: NetName=NetD50_2 Pin=D50-2
+Added Pin To Net: NetName=GND Pin=D50-3
+Added Pin To Net: NetName=NetD49_2 Pin=D50-4
+Added Pin To Net: NetName=+5 Pin=D51-1
+Added Pin To Net: NetName=NetD51_2 Pin=D51-2
+Added Pin To Net: NetName=GND Pin=D51-3
+Added Pin To Net: NetName=NetD50_2 Pin=D51-4
+Added Pin To Net: NetName=+5 Pin=D52-1
+Added Pin To Net: NetName=NetD52_2 Pin=D52-2
+Added Pin To Net: NetName=GND Pin=D52-3
+Added Pin To Net: NetName=NetD51_2 Pin=D52-4
+Added Pin To Net: NetName=+5 Pin=D53-1
+Added Pin To Net: NetName=NetD53_2 Pin=D53-2
+Added Pin To Net: NetName=GND Pin=D53-3
+Added Pin To Net: NetName=NetD52_2 Pin=D53-4
+Added Pin To Net: NetName=+5 Pin=D54-1
+Added Pin To Net: NetName=NetD54_2 Pin=D54-2
+Added Pin To Net: NetName=GND Pin=D54-3
+Added Pin To Net: NetName=NetD53_2 Pin=D54-4
+Added Pin To Net: NetName=+5 Pin=D55-1
+Added Pin To Net: NetName=NetD55_2 Pin=D55-2
+Added Pin To Net: NetName=GND Pin=D55-3
+Added Pin To Net: NetName=NetD54_2 Pin=D55-4
+Added Pin To Net: NetName=+5 Pin=D56-1
+Added Pin To Net: NetName=NetD56_2 Pin=D56-2
+Added Pin To Net: NetName=GND Pin=D56-3
+Added Pin To Net: NetName=NetD55_2 Pin=D56-4
+Added Pin To Net: NetName=+5 Pin=D57-1
+Added Pin To Net: NetName=NetD57_2 Pin=D57-2
+Added Pin To Net: NetName=GND Pin=D57-3
+Added Pin To Net: NetName=NetD56_2 Pin=D57-4
+Added Pin To Net: NetName=+5 Pin=D58-1
+Added Pin To Net: NetName=NetD58_2 Pin=D58-2
+Added Pin To Net: NetName=GND Pin=D58-3
+Added Pin To Net: NetName=NetD57_2 Pin=D58-4
+Added Pin To Net: NetName=+5 Pin=D59-1
+Added Pin To Net: NetName=NetD59_2 Pin=D59-2
+Added Pin To Net: NetName=GND Pin=D59-3
+Added Pin To Net: NetName=NetD58_2 Pin=D59-4
+Added Pin To Net: NetName=+5 Pin=D60-1
+Added Pin To Net: NetName=NetD60_2 Pin=D60-2
+Added Pin To Net: NetName=GND Pin=D60-3
+Added Pin To Net: NetName=NetD59_2 Pin=D60-4
+Added Pin To Net: NetName=+5 Pin=D61-1
+Added Pin To Net: NetName=NetD61_2 Pin=D61-2
+Added Pin To Net: NetName=GND Pin=D61-3
+Added Pin To Net: NetName=NetD60_2 Pin=D61-4
+Added Pin To Net: NetName=+5 Pin=D62-1
+Added Pin To Net: NetName=NetD62_2 Pin=D62-2
+Added Pin To Net: NetName=GND Pin=D62-3
+Added Pin To Net: NetName=NetD61_2 Pin=D62-4
+Added Pin To Net: NetName=+5 Pin=D63-1
+Added Pin To Net: NetName=NetD63_2 Pin=D63-2
+Added Pin To Net: NetName=GND Pin=D63-3
+Added Pin To Net: NetName=NetD62_2 Pin=D63-4
+Added Pin To Net: NetName=+5 Pin=D64-1
+Added Pin To Net: NetName=NetD64_2 Pin=D64-2
+Added Pin To Net: NetName=GND Pin=D64-3
+Added Pin To Net: NetName=NetD63_2 Pin=D64-4
+Added Pin To Net: NetName=+5 Pin=D65-1
+Added Pin To Net: NetName=NetD65_2 Pin=D65-2
+Added Pin To Net: NetName=GND Pin=D65-3
+Added Pin To Net: NetName=NetD64_2 Pin=D65-4
+Added Pin To Net: NetName=+5 Pin=D66-1
+Added Pin To Net: NetName=NetD66_2 Pin=D66-2
+Added Pin To Net: NetName=GND Pin=D66-3
+Added Pin To Net: NetName=NetD65_2 Pin=D66-4
+Added Pin To Net: NetName=+5 Pin=D67-1
+Added Pin To Net: NetName=NetD67_2 Pin=D67-2
+Added Pin To Net: NetName=GND Pin=D67-3
+Added Pin To Net: NetName=NetD66_2 Pin=D67-4
+Added Pin To Net: NetName=+5 Pin=D68-1
+Added Pin To Net: NetName=NetD68_2 Pin=D68-2
+Added Pin To Net: NetName=GND Pin=D68-3
+Added Pin To Net: NetName=NetD67_2 Pin=D68-4
+Added Pin To Net: NetName=+5 Pin=D69-1
+Added Pin To Net: NetName=NetD69_2 Pin=D69-2
+Added Pin To Net: NetName=GND Pin=D69-3
+Added Pin To Net: NetName=NetD68_2 Pin=D69-4
+Added Pin To Net: NetName=+5 Pin=D70-1
+Added Pin To Net: NetName=NetD70_2 Pin=D70-2
+Added Pin To Net: NetName=GND Pin=D70-3
+Added Pin To Net: NetName=NetD69_2 Pin=D70-4
+Added Pin To Net: NetName=+5 Pin=D71-1
+Added Pin To Net: NetName=NetD71_2 Pin=D71-2
+Added Pin To Net: NetName=GND Pin=D71-3
+Added Pin To Net: NetName=NetD70_2 Pin=D71-4
+Added Pin To Net: NetName=+5 Pin=D72-1
+Added Pin To Net: NetName=NetD72_2 Pin=D72-2
+Added Pin To Net: NetName=GND Pin=D72-3
+Added Pin To Net: NetName=NetD71_2 Pin=D72-4
+Added Pin To Net: NetName=+5 Pin=D73-1
+Added Pin To Net: NetName=NetD73_2 Pin=D73-2
+Added Pin To Net: NetName=GND Pin=D73-3
+Added Pin To Net: NetName=NetD72_2 Pin=D73-4
+Added Pin To Net: NetName=+5 Pin=D74-1
+Added Pin To Net: NetName=NetD74_2 Pin=D74-2
+Added Pin To Net: NetName=GND Pin=D74-3
+Added Pin To Net: NetName=NetD73_2 Pin=D74-4
+Added Pin To Net: NetName=+5 Pin=D75-1
+Added Pin To Net: NetName=NetD75_2 Pin=D75-2
+Added Pin To Net: NetName=GND Pin=D75-3
+Added Pin To Net: NetName=NetD74_2 Pin=D75-4
+Added Pin To Net: NetName=+5 Pin=D76-1
+Added Pin To Net: NetName=NetD76_2 Pin=D76-2
+Added Pin To Net: NetName=GND Pin=D76-3
+Added Pin To Net: NetName=NetD75_2 Pin=D76-4
+Added Pin To Net: NetName=+5 Pin=D77-1
+Added Pin To Net: NetName=NetD77_2 Pin=D77-2
+Added Pin To Net: NetName=GND Pin=D77-3
+Added Pin To Net: NetName=NetD76_2 Pin=D77-4
+Added Pin To Net: NetName=+5 Pin=D78-1
+Added Pin To Net: NetName=NetD78_2 Pin=D78-2
+Added Pin To Net: NetName=GND Pin=D78-3
+Added Pin To Net: NetName=NetD77_2 Pin=D78-4
+Added Pin To Net: NetName=+5 Pin=D79-1
+Added Pin To Net: NetName=NetD79_2 Pin=D79-2
+Added Pin To Net: NetName=GND Pin=D79-3
+Added Pin To Net: NetName=NetD78_2 Pin=D79-4
+Added Pin To Net: NetName=+5 Pin=D80-1
+Added Pin To Net: NetName=NetD80_2 Pin=D80-2
+Added Pin To Net: NetName=GND Pin=D80-3
+Added Pin To Net: NetName=NetD79_2 Pin=D80-4
+Added Pin To Net: NetName=+5 Pin=D81-1
+Added Pin To Net: NetName=NetD81_2 Pin=D81-2
+Added Pin To Net: NetName=GND Pin=D81-3
+Added Pin To Net: NetName=NetD80_2 Pin=D81-4
+Added Pin To Net: NetName=+5 Pin=D82-1
+Added Pin To Net: NetName=NetD82_2 Pin=D82-2
+Added Pin To Net: NetName=GND Pin=D82-3
+Added Pin To Net: NetName=NetD81_2 Pin=D82-4
+Added Pin To Net: NetName=+5 Pin=D83-1
+Added Pin To Net: NetName=NetD83_2 Pin=D83-2
+Added Pin To Net: NetName=GND Pin=D83-3
+Added Pin To Net: NetName=NetD82_2 Pin=D83-4
+Added Pin To Net: NetName=+5 Pin=D84-1
+Added Pin To Net: NetName=NetD84_2 Pin=D84-2
+Added Pin To Net: NetName=GND Pin=D84-3
+Added Pin To Net: NetName=NetD83_2 Pin=D84-4
+Added Pin To Net: NetName=+5 Pin=D85-1
+Added Pin To Net: NetName=GND Pin=D85-3
+Added Pin To Net: NetName=NetD84_2 Pin=D85-4
+Added Member To Class: ClassName=SmartLEDS Member=Component C4 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C18 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C19 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C20 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C21 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C22 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C23 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C24 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C25 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C26 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C27 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C28 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C29 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C30 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C31 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C32 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C33 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C34 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C35 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C36 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C37 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C38 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C39 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C40 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C41 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C42 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C44 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C45 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C46 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C47 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C48 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C49 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C50 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C51 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C52 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C53 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C54 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C55 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C56 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C57 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C58 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C59 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C60 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C61 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C62 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C63 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C64 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C65 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C66 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C67 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C68 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C69 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C70 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C71 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C72 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C73 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C74 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C75 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C76 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C77 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C78 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C79 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C80 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C81 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C82 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C86 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C87 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C88 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component D18 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D19 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D20 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D21 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D22 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D23 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D24 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D25 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D26 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D27 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D28 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D29 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D30 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D31 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D32 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D33 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D34 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D35 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D36 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D37 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D38 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D39 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D40 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D41 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D42 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D43 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D44 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D45 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D46 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D47 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D48 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D49 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D50 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D51 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D52 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D53 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D54 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D55 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D56 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D57 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D58 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D59 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D60 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D61 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D62 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D63 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D64 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D65 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D66 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D67 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D68 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D69 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D70 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D71 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D72 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D73 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D74 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D75 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D76 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D77 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D78 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D79 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D80 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D81 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D82 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D83 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D84 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D85 IN-PI55QATPRPGPBPW

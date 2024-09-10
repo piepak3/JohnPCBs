@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=83 NewDesignator=C83
+Added Member To Class: ClassName=SmartLEDS Member=Component C81 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C82 22uF

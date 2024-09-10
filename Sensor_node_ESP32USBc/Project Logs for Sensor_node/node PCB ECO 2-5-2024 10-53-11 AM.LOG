@@ -1,0 +1,234 @@
+Added Component: Designator=C3(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1810221112_Samsung-Electro-Mechanics-CL31A106KBHNNNE_C13585.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C13585"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A106KBHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C4(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1810221112_Samsung-Electro-Mechanics-CL31A106KBHNNNE_C13585.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C13585"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A106KBHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C_1(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C_2(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=LDO(SOT95P285X140-5N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Diodes Inc.'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AP2112K-3.3TRG1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Light(XDCR_VEML7700-TT)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Vishay Semiconductor'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "VEML7700-TT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=MCU(XCVR_ESP32-S3-WROOM-1-N4R2)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Espressif Systems'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ESP32-S3-WROOM-1-N4R2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=OLED(JF-4_SSQ-104-01-X-S)
+Add component (AddParameter): Name = "LCSC PART#"; Value = "C2718488"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR PART #"; Value = "SSQ-104-01-X-SJ"; VariantName = "[No Variations]"
+Added Component: Designator=PM2.5(AMPHENOL_20021311-00010T4LF)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Amphenol ICC'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "20021311-00010T4LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R1(1206_Passive_Resitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-1206W4F0000T5E_C17888.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C17888"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "1206W4F0000T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser link"; Value = "https://www.mouser.com/ProductDetail/Royalohm/1206W4F0000T5E?qs=e8oIoAS2J1Thbopin%252BsagQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R2(1206_Passive_Resitor)
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF1206FT10K0/1759669"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C17902"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "RMCF1206FT10K0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10KOhm"; VariantName = "[No Variations]"
+Added Component: Designator=R3(1206_Passive_Resitor)
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF1206FT10K0/1759669"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C17902"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "RMCF1206FT10K0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10KOhm"; VariantName = "[No Variations]"
+Added Component: Designator=R_CC1(1206_Passive_Resitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1810301421_UNI-ROYAL-Uniroyal-Elec-1206W4F1003T5E_C17900.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C17900"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "1206W4F1003T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5.1KOhm"; VariantName = "[No Variations]"
+Added Component: Designator=R_CC2(1206_Passive_Resitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1810301421_UNI-ROYAL-Uniroyal-Elec-1206W4F1003T5E_C17900.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C17900"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "1206W4F1003T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5.1kOhm"; VariantName = "[No Variations]"
+Added Component: Designator=R_LDOEN(1206_Passive_Resitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1810301410_UNI-ROYAL-Uniroyal-Elec-1206W4J010JT5E_C1409.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C1409"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "1206W4J010JT5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10kOhm"; VariantName = "[No Variations]"
+Added Component: Designator=SW?(Switch_JLC)
+Add component (AddParameter): Name = "DataSheet"; Value = "https://datasheet.lcsc.com/lcsc/2106081532_Shenzhen-Kinghelm-Elec-KH-4.5X4.5X4.3H-STM_C2837550.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C2837550"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "KH-4.5X4.5X4.3H-STM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Added Component: Designator=SW?(Switch_JLC)
+Add component (AddParameter): Name = "DataSheet"; Value = "https://datasheet.lcsc.com/lcsc/2106081532_Shenzhen-Kinghelm-Elec-KH-4.5X4.5X4.3H-STM_C2837550.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C2837550"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "KH-4.5X4.5X4.3H-STM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Added Component: Designator=Temp(PSON100P300X300X110-6N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Asair'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AHT20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=USB_C(VALCON_CSP-USC16-TR)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Valcon'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CSP-USC16-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=USB_VL(1206_Passive_Resitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/2206010145_UNI-ROYAL-Uniroyal-Elec-1206W4F1000T5E_C17901.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C17901"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "1206W4F1000T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1kOhm"; VariantName = "[No Variations]"
+Added Component: Designator=VIN_LED(BOUR-CD1206-S01575-2_L)
+Add component (AddParameter): Name = "Average Forward Current"; Value = "150 mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance Between Terminals (Max.)"; Value = "3 pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.bourns.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.bourns.com/data/global/pdfs/CD1206_S01575.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.bourns.com/data/global/pdfs/CD1206_S01575.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 06/11"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage (Max.)"; Value = "1.00 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin SMD, Body 3.2 x 1.5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CD1206-S01575-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CD1206-S01575"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Current (Max.)"; Value = "2.5 uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Recovery Time (Max.)"; Value = "4 nS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Voltage"; Value = "75 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V Pin=C_1-2
+Added Pin To Net: NetName=3.3V Pin=LDO-5
+Added Pin To Net: NetName=3.3V Pin=Light-2
+Added Pin To Net: NetName=3.3V Pin=MCU-2
+Added Pin To Net: NetName=3.3V Pin=MCU-3
+Added Pin To Net: NetName=3.3V Pin=R1-2
+Added Pin To Net: NetName=3.3V Pin=R2-2
+Added Pin To Net: NetName=3.3V Pin=R3-2
+Added Net: Name=3.3V
+Added Pin To Net: NetName=D+ Pin=MCU-14
+Added Pin To Net: NetName=D+ Pin=USB_C-A6
+Added Pin To Net: NetName=D+ Pin=USB_C-B6
+Added Net: Name=D+
+Added Pin To Net: NetName=D- Pin=MCU-13
+Added Pin To Net: NetName=D- Pin=USB_C-A7
+Added Pin To Net: NetName=D- Pin=USB_C-B7
+Added Net: Name=D-
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C_1-1
+Added Pin To Net: NetName=GND Pin=C_2-1
+Added Pin To Net: NetName=GND Pin=LDO-2
+Added Pin To Net: NetName=GND Pin=Light-3
+Added Pin To Net: NetName=GND Pin=PM2.5-3
+Added Pin To Net: NetName=GND Pin=PM2.5-4
+Added Pin To Net: NetName=GND Pin=R_CC1-1
+Added Pin To Net: NetName=GND Pin=R_CC2-2
+Added Pin To Net: NetName=GND Pin=Temp-5
+Added Pin To Net: NetName=GND Pin=USB_C-A1
+Added Pin To Net: NetName=GND Pin=USB_C-A12
+Added Pin To Net: NetName=GND Pin=USB_C-B1
+Added Pin To Net: NetName=GND Pin=USB_C-B12
+Added Pin To Net: NetName=GND Pin=USB_C-S1
+Added Pin To Net: NetName=GND Pin=USB_C-S2
+Added Pin To Net: NetName=GND Pin=USB_C-S3
+Added Pin To Net: NetName=GND Pin=USB_C-S4
+Added Pin To Net: NetName=GND Pin=USB_VL-2
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=C4-1
+Added Pin To Net: NetName=NetC3_1 Pin=R1-1
+Added Pin To Net: NetName=NetC3_1 Pin=Temp-2
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetLDO_3 Pin=LDO-3
+Added Pin To Net: NetName=NetLDO_3 Pin=R_LDOEN-2
+Added Net: Name=NetLDO_3
+Added Pin To Net: NetName=NetMCU_1 Pin=MCU-1
+Added Pin To Net: NetName=NetMCU_1 Pin=MCU-40
+Added Pin To Net: NetName=NetMCU_1 Pin=MCU-41_1
+Added Pin To Net: NetName=NetMCU_1 Pin=MCU-41_2
+Added Pin To Net: NetName=NetMCU_1 Pin=MCU-41_3
+Added Pin To Net: NetName=NetMCU_1 Pin=MCU-41_4
+Added Pin To Net: NetName=NetMCU_1 Pin=MCU-41_5
+Added Pin To Net: NetName=NetMCU_1 Pin=MCU-41_6
+Added Pin To Net: NetName=NetMCU_1 Pin=MCU-41_7
+Added Pin To Net: NetName=NetMCU_1 Pin=MCU-41_8
+Added Pin To Net: NetName=NetMCU_1 Pin=MCU-41_9
+Added Net: Name=NetMCU_1
+Added Pin To Net: NetName=NetR_CC1_2 Pin=R_CC1-2
+Added Pin To Net: NetName=NetR_CC1_2 Pin=USB_C-A5
+Added Net: Name=NetR_CC1_2
+Added Pin To Net: NetName=NetR_CC2_1 Pin=R_CC2-1
+Added Pin To Net: NetName=NetR_CC2_1 Pin=USB_C-B5
+Added Net: Name=NetR_CC2_1
+Added Pin To Net: NetName=NetUSB_VL_1 Pin=USB_VL-1
+Added Pin To Net: NetName=NetUSB_VL_1 Pin=VIN_LED-2
+Added Net: Name=NetUSB_VL_1
+Added Pin To Net: NetName=SCL Pin=Light-1
+Added Pin To Net: NetName=SCL Pin=MCU-28
+Added Pin To Net: NetName=SCL Pin=PM2.5-8
+Added Pin To Net: NetName=SCL Pin=R3-1
+Added Pin To Net: NetName=SCL Pin=Temp-3
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=Light-4
+Added Pin To Net: NetName=SDA Pin=MCU-29
+Added Pin To Net: NetName=SDA Pin=PM2.5-10
+Added Pin To Net: NetName=SDA Pin=R2-1
+Added Pin To Net: NetName=SDA Pin=Temp-4
+Added Net: Name=SDA
+Added Pin To Net: NetName=USB_POWER Pin=C_2-2
+Added Pin To Net: NetName=USB_POWER Pin=LDO-1
+Added Pin To Net: NetName=USB_POWER Pin=PM2.5-1
+Added Pin To Net: NetName=USB_POWER Pin=PM2.5-2
+Added Pin To Net: NetName=USB_POWER Pin=R_LDOEN-1
+Added Pin To Net: NetName=USB_POWER Pin=USB_C-A4
+Added Pin To Net: NetName=USB_POWER Pin=USB_C-A9
+Added Pin To Net: NetName=USB_POWER Pin=USB_C-B4
+Added Pin To Net: NetName=USB_POWER Pin=USB_C-B9
+Added Pin To Net: NetName=USB_POWER Pin=VIN_LED-1
+Added Net: Name=USB_POWER
+Added Class: Name=node

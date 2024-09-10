@@ -1,0 +1,19 @@
+Added Component: Designator=H1(AlignmentHole_1.5mm)
+Added Component: Designator=H2(AlignmentHole_1.5mm)
+Added Component: Designator=H3(AlignmentHole_1.5mm)
+Added Component: Designator=H4(AlignmentHole_1.5mm)
+Added Pin To Net: NetName=GND Pin=MCU-1
+Added Pin To Net: NetName=GND Pin=MCU-40
+Added Pin To Net: NetName=GND Pin=MCU-41_1
+Added Pin To Net: NetName=GND Pin=MCU-41_2
+Added Pin To Net: NetName=GND Pin=MCU-41_3
+Added Pin To Net: NetName=GND Pin=MCU-41_4
+Added Pin To Net: NetName=GND Pin=MCU-41_5
+Added Pin To Net: NetName=GND Pin=MCU-41_6
+Added Pin To Net: NetName=GND Pin=MCU-41_7
+Added Pin To Net: NetName=GND Pin=MCU-41_8
+Added Pin To Net: NetName=GND Pin=MCU-41_9
+Added Member To Class: ClassName=node Member=Component H1 Stencil Hole
+Added Member To Class: ClassName=node Member=Component H2 Stencil Hole
+Added Member To Class: ClassName=node Member=Component H3 Stencil Hole
+Added Member To Class: ClassName=node Member=Component H4 Stencil Hole

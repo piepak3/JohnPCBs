@@ -1,0 +1,41 @@
+Removed Pin From Net: NetName=555_Out Pin=R6-1
+Removed Pin From Net: NetName=555_Out Pin=U3-1
+Removed Pin From Net: NetName=555_Out Pin=U3-9
+Removed Pin From Net: NetName=555_Out Pin=U3-11
+Removed Pin From Net: NetName=555_Out Pin=U3-13
+Change Component Comment : Designator=SW4 Old Comment=SW LEDs New Comment=SW 
+Change Component Designator: OldDesignator=3.3V NewDesignator=TP2
+Change Component Designator: OldDesignator=5V NewDesignator=TP6
+Change Component Designator: OldDesignator=555 Out NewDesignator=TP12
+Change Component Designator: OldDesignator=Cap NewDesignator=SW2
+Change Component Designator: OldDesignator=LED NewDesignator=TP13
+Change Component Designator: OldDesignator=Q High NewDesignator=TP11
+Change Component Designator: OldDesignator=Q Low NewDesignator=TP10
+Change Component Designator: OldDesignator=R LED NewDesignator=TP15
+Change Component Designator: OldDesignator=Trig NewDesignator=TP9
+Change Component Designator: OldDesignator=Vcc NewDesignator=TP4
+Added Component: Designator=SW5(2Pin-Header-Conn)
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C124375"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Added Component: Designator=TP14(TP10x_Probe)
+Added Pin To Net: NetName=NetSW4_1 Pin=R6-1
+Added Pin To Net: NetName=NetSW4_1 Pin=SW5-1
+Added Pin To Net: NetName=Trig Pin=TP14-1
+Added Pin To Net: NetName=GND Pin=TP14-2
+Added Pin To Net: NetName=GND Pin=TP14-2
+Added Pin To Net: NetName=GND Pin=TP14-2
+Change Net Name : Old Net Name=555_Out New Net Name=555_Bout
+Change Net Name : Old Net Name=NetSW4_1 New Net Name=555_Out
+Added Pin To Net: NetName=555_Gout Pin=SW5-2
+Added Pin To Net: NetName=555_Gout Pin=U3-1
+Added Pin To Net: NetName=555_Gout Pin=U3-9
+Added Pin To Net: NetName=555_Gout Pin=U3-11
+Added Pin To Net: NetName=555_Gout Pin=U3-13
+Added Net: Name=555_Gout
+Added Member To Class: ClassName=Board2 Member=Component LED4 Blue
+Added Member To Class: ClassName=Board2 Member=Component R8 1k
+Added Member To Class: ClassName=Board2 Member=Component SW5 SW 
+Added Member To Class: ClassName=Board2 Member=Component TP12 TP 555 Out
+Added Member To Class: ClassName=Board2 Member=Component TP14 TP Trig
+Added Room: Name=Board2
+Change Rule Scope 1 : Old Scope=All New Scope=InNet('+5')

@@ -1,0 +1,9 @@
+Removed Member From Class: ClassName=SmartLEDS Member=C86
+Removed Member From Class: ClassName=SmartLEDS Member=C87
+Change Component Designator: OldDesignator=C81 NewDesignator=C84
+Change Component Designator: OldDesignator=C82 NewDesignator=C85
+Change Component Designator: OldDesignator=C86 NewDesignator=C81
+Change Component Designator: OldDesignator=C87 NewDesignator=C82
+Change Component Designator: OldDesignator=C88 NewDesignator=83
+Added Member To Class: ClassName=SmartLEDS Member=Component C84 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C85 22uF

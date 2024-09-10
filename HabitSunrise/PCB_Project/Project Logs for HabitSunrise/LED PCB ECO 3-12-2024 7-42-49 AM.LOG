@@ -1,0 +1,1441 @@
+Added Component: Designator=C65(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C66(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C67(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C68(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C69(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C70(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C71(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C72(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C73(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C74(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C75(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C76(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C77(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C78(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C79(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C80(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C81(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C82(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C83(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C84(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C85(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C86(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C87(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C88(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C89(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C90(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C91(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C92(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C93(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C94(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C95(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C96(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C97(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C98(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C99(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C100(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C101(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C102(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C103(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C104(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C105(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C106(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C107(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C108(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C109(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C110(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C111(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C112(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C113(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C114(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C115(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C116(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C117(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C118(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C119(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C120(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C121(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C122(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C123(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C124(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C125(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C126(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C127(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C128(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C129(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C130(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C131(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C132(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C133(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C134(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C135(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C136(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C137(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C138(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C139(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C140(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C141(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C142(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C143(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C144(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C145(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C146(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C147(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C148(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C149(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C150(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C151(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C152(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C153(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C154(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C155(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C156(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C157(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C158(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C159(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C160(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C65-1
+Added Pin To Net: NetName=+5 Pin=C65-2
+Added Pin To Net: NetName=GND Pin=C66-1
+Added Pin To Net: NetName=+5 Pin=C66-2
+Added Pin To Net: NetName=GND Pin=C67-1
+Added Pin To Net: NetName=+5 Pin=C67-2
+Added Pin To Net: NetName=GND Pin=C68-1
+Added Pin To Net: NetName=+5 Pin=C68-2
+Added Pin To Net: NetName=GND Pin=C69-1
+Added Pin To Net: NetName=+5 Pin=C69-2
+Added Pin To Net: NetName=GND Pin=C70-1
+Added Pin To Net: NetName=+5 Pin=C70-2
+Added Pin To Net: NetName=GND Pin=C71-1
+Added Pin To Net: NetName=+5 Pin=C71-2
+Added Pin To Net: NetName=GND Pin=C72-1
+Added Pin To Net: NetName=+5 Pin=C72-2
+Added Pin To Net: NetName=GND Pin=C73-1
+Added Pin To Net: NetName=+5 Pin=C73-2
+Added Pin To Net: NetName=GND Pin=C74-1
+Added Pin To Net: NetName=+5 Pin=C74-2
+Added Pin To Net: NetName=GND Pin=C75-1
+Added Pin To Net: NetName=+5 Pin=C75-2
+Added Pin To Net: NetName=GND Pin=C76-1
+Added Pin To Net: NetName=+5 Pin=C76-2
+Added Pin To Net: NetName=GND Pin=C77-1
+Added Pin To Net: NetName=+5 Pin=C77-2
+Added Pin To Net: NetName=GND Pin=C78-1
+Added Pin To Net: NetName=+5 Pin=C78-2
+Added Pin To Net: NetName=GND Pin=C79-1
+Added Pin To Net: NetName=+5 Pin=C79-2
+Added Pin To Net: NetName=GND Pin=C80-1
+Added Pin To Net: NetName=+5 Pin=C80-2
+Added Pin To Net: NetName=GND Pin=C81-1
+Added Pin To Net: NetName=+5 Pin=C81-2
+Added Pin To Net: NetName=GND Pin=C82-1
+Added Pin To Net: NetName=+5 Pin=C82-2
+Added Pin To Net: NetName=GND Pin=C83-1
+Added Pin To Net: NetName=+5 Pin=C83-2
+Added Pin To Net: NetName=GND Pin=C84-1
+Added Pin To Net: NetName=+5 Pin=C84-2
+Added Pin To Net: NetName=GND Pin=C85-1
+Added Pin To Net: NetName=+5 Pin=C85-2
+Added Pin To Net: NetName=GND Pin=C86-1
+Added Pin To Net: NetName=+5 Pin=C86-2
+Added Pin To Net: NetName=GND Pin=C87-1
+Added Pin To Net: NetName=+5 Pin=C87-2
+Added Pin To Net: NetName=GND Pin=C88-1
+Added Pin To Net: NetName=+5 Pin=C88-2
+Added Pin To Net: NetName=GND Pin=C89-1
+Added Pin To Net: NetName=+5 Pin=C89-2
+Added Pin To Net: NetName=GND Pin=C90-1
+Added Pin To Net: NetName=+5 Pin=C90-2
+Added Pin To Net: NetName=GND Pin=C91-1
+Added Pin To Net: NetName=+5 Pin=C91-2
+Added Pin To Net: NetName=GND Pin=C92-1
+Added Pin To Net: NetName=+5 Pin=C92-2
+Added Pin To Net: NetName=GND Pin=C93-1
+Added Pin To Net: NetName=+5 Pin=C93-2
+Added Pin To Net: NetName=GND Pin=C94-1
+Added Pin To Net: NetName=+5 Pin=C94-2
+Added Pin To Net: NetName=GND Pin=C95-1
+Added Pin To Net: NetName=+5 Pin=C95-2
+Added Pin To Net: NetName=GND Pin=C96-1
+Added Pin To Net: NetName=+5 Pin=C96-2
+Added Pin To Net: NetName=GND Pin=C97-1
+Added Pin To Net: NetName=+5 Pin=C97-2
+Added Pin To Net: NetName=GND Pin=C98-1
+Added Pin To Net: NetName=+5 Pin=C98-2
+Added Pin To Net: NetName=GND Pin=C99-1
+Added Pin To Net: NetName=+5 Pin=C99-2
+Added Pin To Net: NetName=GND Pin=C100-1
+Added Pin To Net: NetName=+5 Pin=C100-2
+Added Pin To Net: NetName=GND Pin=C101-1
+Added Pin To Net: NetName=+5 Pin=C101-2
+Added Pin To Net: NetName=GND Pin=C102-1
+Added Pin To Net: NetName=+5 Pin=C102-2
+Added Pin To Net: NetName=GND Pin=C103-1
+Added Pin To Net: NetName=+5 Pin=C103-2
+Added Pin To Net: NetName=GND Pin=C104-1
+Added Pin To Net: NetName=+5 Pin=C104-2
+Added Pin To Net: NetName=GND Pin=C105-1
+Added Pin To Net: NetName=+5 Pin=C105-2
+Added Pin To Net: NetName=GND Pin=C106-1
+Added Pin To Net: NetName=+5 Pin=C106-2
+Added Pin To Net: NetName=GND Pin=C107-1
+Added Pin To Net: NetName=+5 Pin=C107-2
+Added Pin To Net: NetName=GND Pin=C108-1
+Added Pin To Net: NetName=+5 Pin=C108-2
+Added Pin To Net: NetName=GND Pin=C109-1
+Added Pin To Net: NetName=+5 Pin=C109-2
+Added Pin To Net: NetName=GND Pin=C110-1
+Added Pin To Net: NetName=+5 Pin=C110-2
+Added Pin To Net: NetName=GND Pin=C111-1
+Added Pin To Net: NetName=+5 Pin=C111-2
+Added Pin To Net: NetName=GND Pin=C112-1
+Added Pin To Net: NetName=+5 Pin=C112-2
+Added Pin To Net: NetName=GND Pin=C113-1
+Added Pin To Net: NetName=+5 Pin=C113-2
+Added Pin To Net: NetName=GND Pin=C114-1
+Added Pin To Net: NetName=+5 Pin=C114-2
+Added Pin To Net: NetName=GND Pin=C115-1
+Added Pin To Net: NetName=+5 Pin=C115-2
+Added Pin To Net: NetName=GND Pin=C116-1
+Added Pin To Net: NetName=+5 Pin=C116-2
+Added Pin To Net: NetName=GND Pin=C117-1
+Added Pin To Net: NetName=+5 Pin=C117-2
+Added Pin To Net: NetName=GND Pin=C118-1
+Added Pin To Net: NetName=+5 Pin=C118-2
+Added Pin To Net: NetName=GND Pin=C119-1
+Added Pin To Net: NetName=+5 Pin=C119-2
+Added Pin To Net: NetName=GND Pin=C120-1
+Added Pin To Net: NetName=+5 Pin=C120-2
+Added Pin To Net: NetName=GND Pin=C121-1
+Added Pin To Net: NetName=+5 Pin=C121-2
+Added Pin To Net: NetName=GND Pin=C122-1
+Added Pin To Net: NetName=+5 Pin=C122-2
+Added Pin To Net: NetName=GND Pin=C123-1
+Added Pin To Net: NetName=+5 Pin=C123-2
+Added Pin To Net: NetName=GND Pin=C124-1
+Added Pin To Net: NetName=+5 Pin=C124-2
+Added Pin To Net: NetName=GND Pin=C125-1
+Added Pin To Net: NetName=+5 Pin=C125-2
+Added Pin To Net: NetName=GND Pin=C126-1
+Added Pin To Net: NetName=+5 Pin=C126-2
+Added Pin To Net: NetName=GND Pin=C127-1
+Added Pin To Net: NetName=+5 Pin=C127-2
+Added Pin To Net: NetName=GND Pin=C128-1
+Added Pin To Net: NetName=+5 Pin=C128-2
+Added Pin To Net: NetName=GND Pin=C129-1
+Added Pin To Net: NetName=+5 Pin=C129-2
+Added Pin To Net: NetName=GND Pin=C130-1
+Added Pin To Net: NetName=+5 Pin=C130-2
+Added Pin To Net: NetName=GND Pin=C131-1
+Added Pin To Net: NetName=+5 Pin=C131-2
+Added Pin To Net: NetName=GND Pin=C132-1
+Added Pin To Net: NetName=+5 Pin=C132-2
+Added Pin To Net: NetName=GND Pin=C133-1
+Added Pin To Net: NetName=+5 Pin=C133-2
+Added Pin To Net: NetName=GND Pin=C134-1
+Added Pin To Net: NetName=+5 Pin=C134-2
+Added Pin To Net: NetName=GND Pin=C135-1
+Added Pin To Net: NetName=+5 Pin=C135-2
+Added Pin To Net: NetName=GND Pin=C136-1
+Added Pin To Net: NetName=+5 Pin=C136-2
+Added Pin To Net: NetName=GND Pin=C137-1
+Added Pin To Net: NetName=+5 Pin=C137-2
+Added Pin To Net: NetName=GND Pin=C138-1
+Added Pin To Net: NetName=+5 Pin=C138-2
+Added Pin To Net: NetName=GND Pin=C139-1
+Added Pin To Net: NetName=+5 Pin=C139-2
+Added Pin To Net: NetName=GND Pin=C140-1
+Added Pin To Net: NetName=+5 Pin=C140-2
+Added Pin To Net: NetName=GND Pin=C141-1
+Added Pin To Net: NetName=+5 Pin=C141-2
+Added Pin To Net: NetName=GND Pin=C142-1
+Added Pin To Net: NetName=+5 Pin=C142-2
+Added Pin To Net: NetName=GND Pin=C143-1
+Added Pin To Net: NetName=+5 Pin=C143-2
+Added Pin To Net: NetName=GND Pin=C144-1
+Added Pin To Net: NetName=+5 Pin=C144-2
+Added Pin To Net: NetName=GND Pin=C145-1
+Added Pin To Net: NetName=+5 Pin=C145-2
+Added Pin To Net: NetName=GND Pin=C146-1
+Added Pin To Net: NetName=+5 Pin=C146-2
+Added Pin To Net: NetName=GND Pin=C147-1
+Added Pin To Net: NetName=+5 Pin=C147-2
+Added Pin To Net: NetName=GND Pin=C148-1
+Added Pin To Net: NetName=+5 Pin=C148-2
+Added Pin To Net: NetName=GND Pin=C149-1
+Added Pin To Net: NetName=+5 Pin=C149-2
+Added Pin To Net: NetName=GND Pin=C150-1
+Added Pin To Net: NetName=+5 Pin=C150-2
+Added Pin To Net: NetName=GND Pin=C151-1
+Added Pin To Net: NetName=+5 Pin=C151-2
+Added Pin To Net: NetName=GND Pin=C152-1
+Added Pin To Net: NetName=+5 Pin=C152-2
+Added Pin To Net: NetName=GND Pin=C153-1
+Added Pin To Net: NetName=+5 Pin=C153-2
+Added Pin To Net: NetName=GND Pin=C154-1
+Added Pin To Net: NetName=+5 Pin=C154-2
+Added Pin To Net: NetName=GND Pin=C155-1
+Added Pin To Net: NetName=+5 Pin=C155-2
+Added Pin To Net: NetName=GND Pin=C156-1
+Added Pin To Net: NetName=+5 Pin=C156-2
+Added Pin To Net: NetName=GND Pin=C157-1
+Added Pin To Net: NetName=+5 Pin=C157-2
+Added Pin To Net: NetName=GND Pin=C158-1
+Added Pin To Net: NetName=+5 Pin=C158-2
+Added Pin To Net: NetName=GND Pin=C159-1
+Added Pin To Net: NetName=+5 Pin=C159-2
+Added Pin To Net: NetName=GND Pin=C160-1
+Added Pin To Net: NetName=+5 Pin=C160-2
+Added Pin To Net: NetName=+5 Pin=D65-1
+Added Pin To Net: NetName=GND Pin=D65-3
+Added Pin To Net: NetName=+5 Pin=D66-1
+Added Pin To Net: NetName=GND Pin=D66-3
+Added Pin To Net: NetName=+5 Pin=D67-1
+Added Pin To Net: NetName=GND Pin=D67-3
+Added Pin To Net: NetName=+5 Pin=D68-1
+Added Pin To Net: NetName=GND Pin=D68-3
+Added Pin To Net: NetName=+5 Pin=D69-1
+Added Pin To Net: NetName=GND Pin=D69-3
+Added Pin To Net: NetName=+5 Pin=D70-1
+Added Pin To Net: NetName=GND Pin=D70-3
+Added Pin To Net: NetName=+5 Pin=D71-1
+Added Pin To Net: NetName=GND Pin=D71-3
+Added Pin To Net: NetName=+5 Pin=D72-1
+Added Pin To Net: NetName=GND Pin=D72-3
+Added Pin To Net: NetName=+5 Pin=D73-1
+Added Pin To Net: NetName=GND Pin=D73-3
+Added Pin To Net: NetName=+5 Pin=D74-1
+Added Pin To Net: NetName=GND Pin=D74-3
+Added Pin To Net: NetName=+5 Pin=D75-1
+Added Pin To Net: NetName=GND Pin=D75-3
+Added Pin To Net: NetName=+5 Pin=D76-1
+Added Pin To Net: NetName=GND Pin=D76-3
+Added Pin To Net: NetName=+5 Pin=D77-1
+Added Pin To Net: NetName=GND Pin=D77-3
+Added Pin To Net: NetName=+5 Pin=D78-1
+Added Pin To Net: NetName=GND Pin=D78-3
+Added Pin To Net: NetName=+5 Pin=D79-1
+Added Pin To Net: NetName=GND Pin=D79-3
+Added Pin To Net: NetName=+5 Pin=D80-1
+Added Pin To Net: NetName=GND Pin=D80-3
+Added Pin To Net: NetName=+5 Pin=D81-1
+Added Pin To Net: NetName=GND Pin=D81-3
+Added Pin To Net: NetName=+5 Pin=D82-1
+Added Pin To Net: NetName=GND Pin=D82-3
+Added Pin To Net: NetName=+5 Pin=D83-1
+Added Pin To Net: NetName=GND Pin=D83-3
+Added Pin To Net: NetName=+5 Pin=D84-1
+Added Pin To Net: NetName=GND Pin=D84-3
+Added Pin To Net: NetName=+5 Pin=D85-1
+Added Pin To Net: NetName=GND Pin=D85-3
+Added Pin To Net: NetName=+5 Pin=D86-1
+Added Pin To Net: NetName=GND Pin=D86-3
+Added Pin To Net: NetName=+5 Pin=D87-1
+Added Pin To Net: NetName=GND Pin=D87-3
+Added Pin To Net: NetName=+5 Pin=D88-1
+Added Pin To Net: NetName=GND Pin=D88-3
+Added Pin To Net: NetName=+5 Pin=D89-1
+Added Pin To Net: NetName=GND Pin=D89-3
+Added Pin To Net: NetName=+5 Pin=D90-1
+Added Pin To Net: NetName=GND Pin=D90-3
+Added Pin To Net: NetName=+5 Pin=D91-1
+Added Pin To Net: NetName=GND Pin=D91-3
+Added Pin To Net: NetName=+5 Pin=D92-1
+Added Pin To Net: NetName=GND Pin=D92-3
+Added Pin To Net: NetName=+5 Pin=D93-1
+Added Pin To Net: NetName=GND Pin=D93-3
+Added Pin To Net: NetName=+5 Pin=D94-1
+Added Pin To Net: NetName=GND Pin=D94-3
+Added Pin To Net: NetName=+5 Pin=D95-1
+Added Pin To Net: NetName=GND Pin=D95-3
+Added Pin To Net: NetName=+5 Pin=D96-1
+Added Pin To Net: NetName=GND Pin=D96-3
+Added Pin To Net: NetName=+5 Pin=D97-1
+Added Pin To Net: NetName=GND Pin=D97-3
+Added Pin To Net: NetName=+5 Pin=D98-1
+Added Pin To Net: NetName=GND Pin=D98-3
+Added Pin To Net: NetName=+5 Pin=D99-1
+Added Pin To Net: NetName=GND Pin=D99-3
+Added Pin To Net: NetName=+5 Pin=D100-1
+Added Pin To Net: NetName=GND Pin=D100-3
+Added Pin To Net: NetName=+5 Pin=D101-1
+Added Pin To Net: NetName=GND Pin=D101-3
+Added Pin To Net: NetName=+5 Pin=D102-1
+Added Pin To Net: NetName=GND Pin=D102-3
+Added Pin To Net: NetName=+5 Pin=D103-1
+Added Pin To Net: NetName=GND Pin=D103-3
+Added Pin To Net: NetName=+5 Pin=D104-1
+Added Pin To Net: NetName=GND Pin=D104-3
+Added Pin To Net: NetName=+5 Pin=D105-1
+Added Pin To Net: NetName=GND Pin=D105-3
+Added Pin To Net: NetName=+5 Pin=D106-1
+Added Pin To Net: NetName=GND Pin=D106-3
+Added Pin To Net: NetName=+5 Pin=D107-1
+Added Pin To Net: NetName=GND Pin=D107-3
+Added Pin To Net: NetName=+5 Pin=D108-1
+Added Pin To Net: NetName=GND Pin=D108-3
+Added Pin To Net: NetName=+5 Pin=D109-1
+Added Pin To Net: NetName=GND Pin=D109-3
+Added Pin To Net: NetName=+5 Pin=D110-1
+Added Pin To Net: NetName=GND Pin=D110-3
+Added Pin To Net: NetName=+5 Pin=D111-1
+Added Pin To Net: NetName=GND Pin=D111-3
+Added Pin To Net: NetName=+5 Pin=D112-1
+Added Pin To Net: NetName=GND Pin=D112-3
+Added Pin To Net: NetName=+5 Pin=D113-1
+Added Pin To Net: NetName=GND Pin=D113-3
+Added Pin To Net: NetName=+5 Pin=D114-1
+Added Pin To Net: NetName=GND Pin=D114-3
+Added Pin To Net: NetName=+5 Pin=D115-1
+Added Pin To Net: NetName=GND Pin=D115-3
+Added Pin To Net: NetName=+5 Pin=D116-1
+Added Pin To Net: NetName=GND Pin=D116-3
+Added Pin To Net: NetName=+5 Pin=D117-1
+Added Pin To Net: NetName=GND Pin=D117-3
+Added Pin To Net: NetName=+5 Pin=D118-1
+Added Pin To Net: NetName=GND Pin=D118-3
+Added Pin To Net: NetName=+5 Pin=D119-1
+Added Pin To Net: NetName=GND Pin=D119-3
+Added Pin To Net: NetName=+5 Pin=D120-1
+Added Pin To Net: NetName=GND Pin=D120-3
+Added Pin To Net: NetName=+5 Pin=D121-1
+Added Pin To Net: NetName=GND Pin=D121-3
+Added Pin To Net: NetName=+5 Pin=D122-1
+Added Pin To Net: NetName=GND Pin=D122-3
+Added Pin To Net: NetName=+5 Pin=D123-1
+Added Pin To Net: NetName=GND Pin=D123-3
+Added Pin To Net: NetName=+5 Pin=D124-1
+Added Pin To Net: NetName=GND Pin=D124-3
+Added Pin To Net: NetName=+5 Pin=D125-1
+Added Pin To Net: NetName=GND Pin=D125-3
+Added Pin To Net: NetName=+5 Pin=D126-1
+Added Pin To Net: NetName=GND Pin=D126-3
+Added Pin To Net: NetName=+5 Pin=D127-1
+Added Pin To Net: NetName=GND Pin=D127-3
+Added Pin To Net: NetName=+5 Pin=D128-1
+Added Pin To Net: NetName=GND Pin=D128-3
+Added Pin To Net: NetName=+5 Pin=D129-1
+Added Pin To Net: NetName=GND Pin=D129-3
+Added Pin To Net: NetName=+5 Pin=D130-1
+Added Pin To Net: NetName=GND Pin=D130-3
+Added Pin To Net: NetName=+5 Pin=D131-1
+Added Pin To Net: NetName=GND Pin=D131-3
+Added Pin To Net: NetName=+5 Pin=D132-1
+Added Pin To Net: NetName=GND Pin=D132-3
+Added Pin To Net: NetName=+5 Pin=D133-1
+Added Pin To Net: NetName=GND Pin=D133-3
+Added Pin To Net: NetName=+5 Pin=D134-1
+Added Pin To Net: NetName=GND Pin=D134-3
+Added Pin To Net: NetName=+5 Pin=D135-1
+Added Pin To Net: NetName=GND Pin=D135-3
+Added Pin To Net: NetName=+5 Pin=D136-1
+Added Pin To Net: NetName=GND Pin=D136-3
+Added Pin To Net: NetName=+5 Pin=D137-1
+Added Pin To Net: NetName=GND Pin=D137-3
+Added Pin To Net: NetName=+5 Pin=D138-1
+Added Pin To Net: NetName=GND Pin=D138-3
+Added Pin To Net: NetName=+5 Pin=D139-1
+Added Pin To Net: NetName=GND Pin=D139-3
+Added Pin To Net: NetName=+5 Pin=D140-1
+Added Pin To Net: NetName=GND Pin=D140-3
+Added Pin To Net: NetName=+5 Pin=D141-1
+Added Pin To Net: NetName=GND Pin=D141-3
+Added Pin To Net: NetName=+5 Pin=D142-1
+Added Pin To Net: NetName=GND Pin=D142-3
+Added Pin To Net: NetName=+5 Pin=D143-1
+Added Pin To Net: NetName=GND Pin=D143-3
+Added Pin To Net: NetName=+5 Pin=D144-1
+Added Pin To Net: NetName=GND Pin=D144-3
+Added Pin To Net: NetName=+5 Pin=D145-1
+Added Pin To Net: NetName=GND Pin=D145-3
+Added Pin To Net: NetName=+5 Pin=D146-1
+Added Pin To Net: NetName=GND Pin=D146-3
+Added Pin To Net: NetName=+5 Pin=D147-1
+Added Pin To Net: NetName=GND Pin=D147-3
+Added Pin To Net: NetName=+5 Pin=D148-1
+Added Pin To Net: NetName=GND Pin=D148-3
+Added Pin To Net: NetName=+5 Pin=D149-1
+Added Pin To Net: NetName=GND Pin=D149-3
+Added Pin To Net: NetName=+5 Pin=D150-1
+Added Pin To Net: NetName=GND Pin=D150-3
+Added Pin To Net: NetName=+5 Pin=D151-1
+Added Pin To Net: NetName=GND Pin=D151-3
+Added Pin To Net: NetName=+5 Pin=D152-1
+Added Pin To Net: NetName=GND Pin=D152-3
+Added Pin To Net: NetName=+5 Pin=D153-1
+Added Pin To Net: NetName=GND Pin=D153-3
+Added Pin To Net: NetName=+5 Pin=D154-1
+Added Pin To Net: NetName=GND Pin=D154-3
+Added Pin To Net: NetName=+5 Pin=D155-1
+Added Pin To Net: NetName=GND Pin=D155-3
+Added Pin To Net: NetName=+5 Pin=D156-1
+Added Pin To Net: NetName=GND Pin=D156-3
+Added Pin To Net: NetName=+5 Pin=D157-1
+Added Pin To Net: NetName=GND Pin=D157-3
+Added Pin To Net: NetName=+5 Pin=D158-1
+Added Pin To Net: NetName=GND Pin=D158-3
+Added Pin To Net: NetName=+5 Pin=D159-1
+Added Pin To Net: NetName=GND Pin=D159-3
+Added Pin To Net: NetName=+5 Pin=D160-1
+Added Pin To Net: NetName=GND Pin=D160-3
+Added Pin To Net: NetName=NetD64_2 Pin=D64-2
+Added Pin To Net: NetName=NetD64_2 Pin=D65-4
+Added Net: Name=NetD64_2
+Added Pin To Net: NetName=NetD65_2 Pin=D65-2
+Added Pin To Net: NetName=NetD65_2 Pin=D66-4
+Added Net: Name=NetD65_2
+Added Pin To Net: NetName=NetD66_2 Pin=D66-2
+Added Pin To Net: NetName=NetD66_2 Pin=D67-4
+Added Net: Name=NetD66_2
+Added Pin To Net: NetName=NetD67_2 Pin=D67-2
+Added Pin To Net: NetName=NetD67_2 Pin=D68-4
+Added Net: Name=NetD67_2
+Added Pin To Net: NetName=NetD68_2 Pin=D68-2
+Added Pin To Net: NetName=NetD68_2 Pin=D69-4
+Added Net: Name=NetD68_2
+Added Pin To Net: NetName=NetD69_2 Pin=D69-2
+Added Pin To Net: NetName=NetD69_2 Pin=D70-4
+Added Net: Name=NetD69_2
+Added Pin To Net: NetName=NetD70_2 Pin=D70-2
+Added Pin To Net: NetName=NetD70_2 Pin=D71-4
+Added Net: Name=NetD70_2
+Added Pin To Net: NetName=NetD71_2 Pin=D71-2
+Added Pin To Net: NetName=NetD71_2 Pin=D72-4
+Added Net: Name=NetD71_2
+Added Pin To Net: NetName=NetD72_2 Pin=D72-2
+Added Pin To Net: NetName=NetD72_2 Pin=D73-4
+Added Net: Name=NetD72_2
+Added Pin To Net: NetName=NetD73_2 Pin=D73-2
+Added Pin To Net: NetName=NetD73_2 Pin=D74-4
+Added Net: Name=NetD73_2
+Added Pin To Net: NetName=NetD74_2 Pin=D74-2
+Added Pin To Net: NetName=NetD74_2 Pin=D75-4
+Added Net: Name=NetD74_2
+Added Pin To Net: NetName=NetD75_2 Pin=D75-2
+Added Pin To Net: NetName=NetD75_2 Pin=D76-4
+Added Net: Name=NetD75_2
+Added Pin To Net: NetName=NetD76_2 Pin=D76-2
+Added Pin To Net: NetName=NetD76_2 Pin=D77-4
+Added Net: Name=NetD76_2
+Added Pin To Net: NetName=NetD77_2 Pin=D77-2
+Added Pin To Net: NetName=NetD77_2 Pin=D78-4
+Added Net: Name=NetD77_2
+Added Pin To Net: NetName=NetD78_2 Pin=D78-2
+Added Pin To Net: NetName=NetD78_2 Pin=D79-4
+Added Net: Name=NetD78_2
+Added Pin To Net: NetName=NetD79_2 Pin=D79-2
+Added Pin To Net: NetName=NetD79_2 Pin=D80-4
+Added Net: Name=NetD79_2
+Added Pin To Net: NetName=NetD80_2 Pin=D80-2
+Added Pin To Net: NetName=NetD80_2 Pin=D81-4
+Added Net: Name=NetD80_2
+Added Pin To Net: NetName=NetD81_2 Pin=D81-2
+Added Pin To Net: NetName=NetD81_2 Pin=D82-4
+Added Net: Name=NetD81_2
+Added Pin To Net: NetName=NetD82_2 Pin=D82-2
+Added Pin To Net: NetName=NetD82_2 Pin=D83-4
+Added Net: Name=NetD82_2
+Added Pin To Net: NetName=NetD83_2 Pin=D83-2
+Added Pin To Net: NetName=NetD83_2 Pin=D84-4
+Added Net: Name=NetD83_2
+Added Pin To Net: NetName=NetD84_2 Pin=D84-2
+Added Pin To Net: NetName=NetD84_2 Pin=D85-4
+Added Net: Name=NetD84_2
+Added Pin To Net: NetName=NetD85_2 Pin=D85-2
+Added Pin To Net: NetName=NetD85_2 Pin=D86-4
+Added Net: Name=NetD85_2
+Added Pin To Net: NetName=NetD86_2 Pin=D86-2
+Added Pin To Net: NetName=NetD86_2 Pin=D87-4
+Added Net: Name=NetD86_2
+Added Pin To Net: NetName=NetD87_2 Pin=D87-2
+Added Pin To Net: NetName=NetD87_2 Pin=D88-4
+Added Net: Name=NetD87_2
+Added Pin To Net: NetName=NetD88_2 Pin=D88-2
+Added Pin To Net: NetName=NetD88_2 Pin=D89-4
+Added Net: Name=NetD88_2
+Added Pin To Net: NetName=NetD89_2 Pin=D89-2
+Added Pin To Net: NetName=NetD89_2 Pin=D90-4
+Added Net: Name=NetD89_2
+Added Pin To Net: NetName=NetD90_2 Pin=D90-2
+Added Pin To Net: NetName=NetD90_2 Pin=D91-4
+Added Net: Name=NetD90_2
+Added Pin To Net: NetName=NetD91_2 Pin=D91-2
+Added Pin To Net: NetName=NetD91_2 Pin=D92-4
+Added Net: Name=NetD91_2
+Added Pin To Net: NetName=NetD92_2 Pin=D92-2
+Added Pin To Net: NetName=NetD92_2 Pin=D93-4
+Added Net: Name=NetD92_2
+Added Pin To Net: NetName=NetD93_2 Pin=D93-2
+Added Pin To Net: NetName=NetD93_2 Pin=D94-4
+Added Net: Name=NetD93_2
+Added Pin To Net: NetName=NetD94_2 Pin=D94-2
+Added Pin To Net: NetName=NetD94_2 Pin=D95-4
+Added Net: Name=NetD94_2
+Added Pin To Net: NetName=NetD95_2 Pin=D95-2
+Added Pin To Net: NetName=NetD95_2 Pin=D96-4
+Added Net: Name=NetD95_2
+Added Pin To Net: NetName=NetD96_2 Pin=D96-2
+Added Pin To Net: NetName=NetD96_2 Pin=D97-4
+Added Net: Name=NetD96_2
+Added Pin To Net: NetName=NetD97_2 Pin=D97-2
+Added Pin To Net: NetName=NetD97_2 Pin=D98-4
+Added Net: Name=NetD97_2
+Added Pin To Net: NetName=NetD98_2 Pin=D98-2
+Added Pin To Net: NetName=NetD98_2 Pin=D99-4
+Added Net: Name=NetD98_2
+Added Pin To Net: NetName=NetD99_2 Pin=D99-2
+Added Pin To Net: NetName=NetD99_2 Pin=D100-4
+Added Net: Name=NetD99_2
+Added Pin To Net: NetName=NetD100_2 Pin=D100-2
+Added Pin To Net: NetName=NetD100_2 Pin=D101-4
+Added Net: Name=NetD100_2
+Added Pin To Net: NetName=NetD101_2 Pin=D101-2
+Added Pin To Net: NetName=NetD101_2 Pin=D102-4
+Added Net: Name=NetD101_2
+Added Pin To Net: NetName=NetD102_2 Pin=D102-2
+Added Pin To Net: NetName=NetD102_2 Pin=D103-4
+Added Net: Name=NetD102_2
+Added Pin To Net: NetName=NetD103_2 Pin=D103-2
+Added Pin To Net: NetName=NetD103_2 Pin=D104-4
+Added Net: Name=NetD103_2
+Added Pin To Net: NetName=NetD104_2 Pin=D104-2
+Added Pin To Net: NetName=NetD104_2 Pin=D105-4
+Added Net: Name=NetD104_2
+Added Pin To Net: NetName=NetD105_2 Pin=D105-2
+Added Pin To Net: NetName=NetD105_2 Pin=D106-4
+Added Net: Name=NetD105_2
+Added Pin To Net: NetName=NetD106_2 Pin=D106-2
+Added Pin To Net: NetName=NetD106_2 Pin=D107-4
+Added Net: Name=NetD106_2
+Added Pin To Net: NetName=NetD107_2 Pin=D107-2
+Added Pin To Net: NetName=NetD107_2 Pin=D108-4
+Added Net: Name=NetD107_2
+Added Pin To Net: NetName=NetD108_2 Pin=D108-2
+Added Pin To Net: NetName=NetD108_2 Pin=D109-4
+Added Net: Name=NetD108_2
+Added Pin To Net: NetName=NetD109_2 Pin=D109-2
+Added Pin To Net: NetName=NetD109_2 Pin=D110-4
+Added Net: Name=NetD109_2
+Added Pin To Net: NetName=NetD110_2 Pin=D110-2
+Added Pin To Net: NetName=NetD110_2 Pin=D111-4
+Added Net: Name=NetD110_2
+Added Pin To Net: NetName=NetD111_2 Pin=D111-2
+Added Pin To Net: NetName=NetD111_2 Pin=D112-4
+Added Net: Name=NetD111_2
+Added Pin To Net: NetName=NetD112_2 Pin=D112-2
+Added Pin To Net: NetName=NetD112_2 Pin=D113-4
+Added Net: Name=NetD112_2
+Added Pin To Net: NetName=NetD113_2 Pin=D113-2
+Added Pin To Net: NetName=NetD113_2 Pin=D114-4
+Added Net: Name=NetD113_2
+Added Pin To Net: NetName=NetD114_2 Pin=D114-2
+Added Pin To Net: NetName=NetD114_2 Pin=D115-4
+Added Net: Name=NetD114_2
+Added Pin To Net: NetName=NetD115_2 Pin=D115-2
+Added Pin To Net: NetName=NetD115_2 Pin=D116-4
+Added Net: Name=NetD115_2
+Added Pin To Net: NetName=NetD116_2 Pin=D116-2
+Added Pin To Net: NetName=NetD116_2 Pin=D117-4
+Added Net: Name=NetD116_2
+Added Pin To Net: NetName=NetD117_2 Pin=D117-2
+Added Pin To Net: NetName=NetD117_2 Pin=D118-4
+Added Net: Name=NetD117_2
+Added Pin To Net: NetName=NetD118_2 Pin=D118-2
+Added Pin To Net: NetName=NetD118_2 Pin=D119-4
+Added Net: Name=NetD118_2
+Added Pin To Net: NetName=NetD119_2 Pin=D119-2
+Added Pin To Net: NetName=NetD119_2 Pin=D120-4
+Added Net: Name=NetD119_2
+Added Pin To Net: NetName=NetD120_2 Pin=D120-2
+Added Pin To Net: NetName=NetD120_2 Pin=D121-4
+Added Net: Name=NetD120_2
+Added Pin To Net: NetName=NetD121_2 Pin=D121-2
+Added Pin To Net: NetName=NetD121_2 Pin=D122-4
+Added Net: Name=NetD121_2
+Added Pin To Net: NetName=NetD122_2 Pin=D122-2
+Added Pin To Net: NetName=NetD122_2 Pin=D123-4
+Added Net: Name=NetD122_2
+Added Pin To Net: NetName=NetD123_2 Pin=D123-2
+Added Pin To Net: NetName=NetD123_2 Pin=D124-4
+Added Net: Name=NetD123_2
+Added Pin To Net: NetName=NetD124_2 Pin=D124-2
+Added Pin To Net: NetName=NetD124_2 Pin=D125-4
+Added Net: Name=NetD124_2
+Added Pin To Net: NetName=NetD125_2 Pin=D125-2
+Added Pin To Net: NetName=NetD125_2 Pin=D126-4
+Added Net: Name=NetD125_2
+Added Pin To Net: NetName=NetD126_2 Pin=D126-2
+Added Pin To Net: NetName=NetD126_2 Pin=D127-4
+Added Net: Name=NetD126_2
+Added Pin To Net: NetName=NetD127_2 Pin=D127-2
+Added Pin To Net: NetName=NetD127_2 Pin=D128-4
+Added Net: Name=NetD127_2
+Added Pin To Net: NetName=NetD128_2 Pin=D128-2
+Added Pin To Net: NetName=NetD128_2 Pin=D129-4
+Added Net: Name=NetD128_2
+Added Pin To Net: NetName=NetD129_2 Pin=D129-2
+Added Pin To Net: NetName=NetD129_2 Pin=D130-4
+Added Net: Name=NetD129_2
+Added Pin To Net: NetName=NetD130_2 Pin=D130-2
+Added Pin To Net: NetName=NetD130_2 Pin=D131-4
+Added Net: Name=NetD130_2
+Added Pin To Net: NetName=NetD131_2 Pin=D131-2
+Added Pin To Net: NetName=NetD131_2 Pin=D132-4
+Added Net: Name=NetD131_2
+Added Pin To Net: NetName=NetD132_2 Pin=D132-2
+Added Pin To Net: NetName=NetD132_2 Pin=D133-4
+Added Net: Name=NetD132_2
+Added Pin To Net: NetName=NetD133_2 Pin=D133-2
+Added Pin To Net: NetName=NetD133_2 Pin=D134-4
+Added Net: Name=NetD133_2
+Added Pin To Net: NetName=NetD134_2 Pin=D134-2
+Added Pin To Net: NetName=NetD134_2 Pin=D135-4
+Added Net: Name=NetD134_2
+Added Pin To Net: NetName=NetD135_2 Pin=D135-2
+Added Pin To Net: NetName=NetD135_2 Pin=D136-4
+Added Net: Name=NetD135_2
+Added Pin To Net: NetName=NetD136_2 Pin=D136-2
+Added Pin To Net: NetName=NetD136_2 Pin=D137-4
+Added Net: Name=NetD136_2
+Added Pin To Net: NetName=NetD137_2 Pin=D137-2
+Added Pin To Net: NetName=NetD137_2 Pin=D138-4
+Added Net: Name=NetD137_2
+Added Pin To Net: NetName=NetD138_2 Pin=D138-2
+Added Pin To Net: NetName=NetD138_2 Pin=D139-4
+Added Net: Name=NetD138_2
+Added Pin To Net: NetName=NetD139_2 Pin=D139-2
+Added Pin To Net: NetName=NetD139_2 Pin=D140-4
+Added Net: Name=NetD139_2
+Added Pin To Net: NetName=NetD140_2 Pin=D140-2
+Added Pin To Net: NetName=NetD140_2 Pin=D141-4
+Added Net: Name=NetD140_2
+Added Pin To Net: NetName=NetD141_2 Pin=D141-2
+Added Pin To Net: NetName=NetD141_2 Pin=D142-4
+Added Net: Name=NetD141_2
+Added Pin To Net: NetName=NetD142_2 Pin=D142-2
+Added Pin To Net: NetName=NetD142_2 Pin=D143-4
+Added Net: Name=NetD142_2
+Added Pin To Net: NetName=NetD143_2 Pin=D143-2
+Added Pin To Net: NetName=NetD143_2 Pin=D144-4
+Added Net: Name=NetD143_2
+Added Pin To Net: NetName=NetD144_2 Pin=D144-2
+Added Pin To Net: NetName=NetD144_2 Pin=D145-4
+Added Net: Name=NetD144_2
+Added Pin To Net: NetName=NetD145_2 Pin=D145-2
+Added Pin To Net: NetName=NetD145_2 Pin=D146-4
+Added Net: Name=NetD145_2
+Added Pin To Net: NetName=NetD146_2 Pin=D146-2
+Added Pin To Net: NetName=NetD146_2 Pin=D147-4
+Added Net: Name=NetD146_2
+Added Pin To Net: NetName=NetD147_2 Pin=D147-2
+Added Pin To Net: NetName=NetD147_2 Pin=D148-4
+Added Net: Name=NetD147_2
+Added Pin To Net: NetName=NetD148_2 Pin=D148-2
+Added Pin To Net: NetName=NetD148_2 Pin=D149-4
+Added Net: Name=NetD148_2
+Added Pin To Net: NetName=NetD149_2 Pin=D149-2
+Added Pin To Net: NetName=NetD149_2 Pin=D150-4
+Added Net: Name=NetD149_2
+Added Pin To Net: NetName=NetD150_2 Pin=D150-2
+Added Pin To Net: NetName=NetD150_2 Pin=D151-4
+Added Net: Name=NetD150_2
+Added Pin To Net: NetName=NetD151_2 Pin=D151-2
+Added Pin To Net: NetName=NetD151_2 Pin=D152-4
+Added Net: Name=NetD151_2
+Added Pin To Net: NetName=NetD152_2 Pin=D152-2
+Added Pin To Net: NetName=NetD152_2 Pin=D153-4
+Added Net: Name=NetD152_2
+Added Pin To Net: NetName=NetD153_2 Pin=D153-2
+Added Pin To Net: NetName=NetD153_2 Pin=D154-4
+Added Net: Name=NetD153_2
+Added Pin To Net: NetName=NetD154_2 Pin=D154-2
+Added Pin To Net: NetName=NetD154_2 Pin=D155-4
+Added Net: Name=NetD154_2
+Added Pin To Net: NetName=NetD155_2 Pin=D155-2
+Added Pin To Net: NetName=NetD155_2 Pin=D156-4
+Added Net: Name=NetD155_2
+Added Pin To Net: NetName=NetD156_2 Pin=D156-2
+Added Pin To Net: NetName=NetD156_2 Pin=D157-4
+Added Net: Name=NetD156_2
+Added Pin To Net: NetName=NetD157_2 Pin=D157-2
+Added Pin To Net: NetName=NetD157_2 Pin=D158-4
+Added Net: Name=NetD157_2
+Added Pin To Net: NetName=NetD158_2 Pin=D158-2
+Added Pin To Net: NetName=NetD158_2 Pin=D159-4
+Added Net: Name=NetD158_2
+Added Pin To Net: NetName=NetD159_2 Pin=D159-2
+Added Pin To Net: NetName=NetD159_2 Pin=D160-4
+Added Net: Name=NetD159_2
+Added Member To Class: ClassName=SmartLEDS Member=Component C65 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C66 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C67 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C68 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C69 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C70 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C71 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C72 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C73 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C74 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C75 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C76 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C77 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C78 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C79 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C80 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C81 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C82 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C83 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C84 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C85 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C86 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C87 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C88 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C89 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C90 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C91 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C92 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C93 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C94 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C95 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C96 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C97 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C98 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C99 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C100 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C101 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C102 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C103 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C104 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C105 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C106 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C107 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C108 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C109 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C110 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C111 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C112 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C113 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C114 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C115 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C116 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C117 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C118 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C119 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C120 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C121 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C122 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C123 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C124 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C125 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C126 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C127 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C128 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C129 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C130 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C131 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C132 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C133 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C134 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C135 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C136 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C137 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C138 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C139 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C140 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C141 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C142 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C143 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C144 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C145 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C146 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C147 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C148 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C149 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C150 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C151 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C152 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C153 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C154 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C155 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C156 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C157 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C158 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C159 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component C160 22uF
+Added Member To Class: ClassName=SmartLEDS Member=Component D26 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D65 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D66 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D67 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D68 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D69 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D70 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D71 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D72 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D73 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D74 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D75 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D76 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D77 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D78 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D79 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D80 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D81 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D82 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D83 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D84 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D85 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D86 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D87 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D88 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D89 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D90 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D91 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D92 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D93 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D94 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D95 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D96 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D97 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D98 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D99 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D100 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D101 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D102 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D103 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D104 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D105 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D106 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D107 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D108 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D109 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D110 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D111 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D112 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D113 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D114 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D115 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D116 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D117 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D118 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D119 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D120 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D121 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D122 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D123 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D124 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D125 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D126 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D127 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D128 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D129 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D130 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D131 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D132 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D133 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D134 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D135 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D136 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D137 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D138 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D139 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D140 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D141 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D142 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D143 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D144 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D145 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D146 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D147 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D148 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D149 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D150 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D151 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D152 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D153 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D154 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D155 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D156 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D157 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D158 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D159 IN-PI55QATPRPGPBPW
+Added Member To Class: ClassName=SmartLEDS Member=Component D160 IN-PI55QATPRPGPBPW

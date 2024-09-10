@@ -1,0 +1,82 @@
+Removed Pin From Net: NetName=GND Pin=R11-1
+Removed Pin From Net: NetName=GND Pin=R12-1
+Removed Pin From Net: NetName=GND Pin=R13-1
+Removed Pin From Net: NetName=GND Pin=R14-1
+Removed Pin From Net: NetName=GND Pin=U5-5
+Removed Pin From Net: NetName=GND Pin=U5-7
+Change Component Comment : Designator=SW6 Old Comment=1ohm/10ohm New Comment=PREC003SAAN-RC
+Change Component Comment : Designator=TP12 Old Comment=Current New Comment=DAC
+Change Component Comment : Designator=TP13 Old Comment=VRM New Comment=DAC
+Added Component: Designator=C20(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C21(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C22(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C23(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=H1(AlignmentHole_1.5mm)
+Added Component: Designator=H2(AlignmentHole_1.5mm)
+Added Component: Designator=H3(AlignmentHole_1.5mm)
+Added Component: Designator=H4(AlignmentHole_1.5mm)
+Added Component: Designator=R17(1206_Passive_Resitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-1206W4F0000T5E_C17888.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C17888"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "1206W4F0000T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser link"; Value = "https://www.mouser.com/ProductDetail/Royalohm/1206W4F0000T5E?qs=e8oIoAS2J1Thbopin%252BsagQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R18(1206_Passive_Resitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-1206W4F0000T5E_C17888.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C17888"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "1206W4F0000T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser link"; Value = "https://www.mouser.com/ProductDetail/Royalohm/1206W4F0000T5E?qs=e8oIoAS2J1Thbopin%252BsagQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0 Ohm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=Vcc Pin=C20-2
+Added Pin To Net: NetName=GND Pin=C21-1
+Added Pin To Net: NetName=Vcc Pin=C21-2
+Added Pin To Net: NetName=GND Pin=C22-1
+Added Pin To Net: NetName=Vcc Pin=C22-2
+Added Pin To Net: NetName=GND Pin=C23-1
+Added Pin To Net: NetName=Vcc Pin=C23-2
+Added Pin To Net: NetName=GND Pin=R17-1
+Added Pin To Net: NetName=GND Pin=R18-1
+Added Pin To Net: NetName=V_Current- Pin=R13-1
+Added Pin To Net: NetName=V_Current- Pin=R14-1
+Added Pin To Net: NetName=V_Current- Pin=R18-2
+Added Net: Name=V_Current-
+Added Pin To Net: NetName=V_VRM- Pin=R11-1
+Added Pin To Net: NetName=V_VRM- Pin=R12-1
+Added Pin To Net: NetName=V_VRM- Pin=R17-2
+Added Pin To Net: NetName=V_VRM- Pin=U5-7
+Added Net: Name=V_VRM-
+Added Member To Class: ClassName=Rth Member=Component C20 22uF
+Added Member To Class: ClassName=Rth Member=Component C21 22uF
+Added Member To Class: ClassName=Rth Member=Component C22 22uF
+Added Member To Class: ClassName=Rth Member=Component C23 22uF
+Added Member To Class: ClassName=Rth Member=Component H1 Stencil Hole
+Added Member To Class: ClassName=Rth Member=Component H2 Stencil Hole
+Added Member To Class: ClassName=Rth Member=Component H3 Stencil Hole
+Added Member To Class: ClassName=Rth Member=Component H4 Stencil Hole
+Added Member To Class: ClassName=Rth Member=Component R17 0 Ohm
+Added Member To Class: ClassName=Rth Member=Component R18 0 Ohm
+Added Room: Name=Board4
+Added Room: Name=Rth

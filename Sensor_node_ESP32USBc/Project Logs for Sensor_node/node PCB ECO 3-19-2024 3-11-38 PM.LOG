@@ -1,0 +1,41 @@
+Removed Pin From Net: NetName=GND Pin=MCU-41_10
+Removed Pin From Net: NetName=GND Pin=MCU-41_11
+Removed Pin From Net: NetName=GND Pin=MCU-41_12
+Removed Pin From Net: NetName=GND Pin=MCU-41_13
+Removed Pin From Net: NetName=GND Pin=MCU-41_14
+Removed Pin From Net: NetName=GND Pin=MCU-41_15
+Removed Pin From Net: NetName=GND Pin=MCU-41_16
+Removed Pin From Net: NetName=GND Pin=MCU-41_17
+Removed Pin From Net: NetName=GND Pin=MCU-41_18
+Removed Pin From Net: NetName=GND Pin=MCU-41_19
+Removed Pin From Net: NetName=GND Pin=MCU-41_20
+Removed Pin From Net: NetName=GND Pin=MCU-41_21
+Removed Pin From Net: NetName=SDA Pin=OLED-1
+Removed Pin From Net: NetName=SCL Pin=OLED-2
+Removed Pin From Net: NetName=3.3V Pin=OLED-3
+Removed Pin From Net: NetName=GND Pin=OLED-4
+Added Component: Designator=OLED(8_PIN_100MIL - Female)
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/product-detail/en/PPTC081LFBN-RC/S7006-ND/810147/?itemSeq=304982354"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C27438"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "PPTC081LFBN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Female"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=OLED-1
+Added Pin To Net: NetName=3.3V Pin=OLED-7
+Added Pin To Net: NetName=GND Pin=OLED-8
+Added Pin To Net: NetName=DS_CLK Pin=MCU-8
+Added Pin To Net: NetName=DS_CLK Pin=OLED-6
+Added Net: Name=DS_CLK
+Added Pin To Net: NetName=DS_CS Pin=MCU-19
+Added Pin To Net: NetName=DS_CS Pin=OLED-2
+Added Net: Name=DS_CS
+Added Pin To Net: NetName=DS_DATA Pin=MCU-22
+Added Pin To Net: NetName=DS_DATA Pin=OLED-5
+Added Net: Name=DS_DATA
+Added Pin To Net: NetName=DS_DC Pin=MCU-20
+Added Pin To Net: NetName=DS_DC Pin=OLED-3
+Added Net: Name=DS_DC
+Added Pin To Net: NetName=DS_RS Pin=MCU-21
+Added Pin To Net: NetName=DS_RS Pin=OLED-4
+Added Net: Name=DS_RS
+Added Member To Class: ClassName=node Member=Component PM2.5 20021311-00010T4LF

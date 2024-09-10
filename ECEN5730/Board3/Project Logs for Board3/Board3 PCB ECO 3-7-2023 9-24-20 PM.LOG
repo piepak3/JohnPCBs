@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=Reset Pin=C8-1
+Removed Pin From Net: NetName=Reset Pin=J1-3
+Removed Pin From Net: NetName=Reset Pin=J2-3
+Removed Pin From Net: NetName=Reset Pin=U1-29
+Added Pin To Net: NetName=NetC6_2 Pin=C8-1
+Added Pin To Net: NetName=NetC6_2 Pin=J1-3
+Added Pin To Net: NetName=NetC6_2 Pin=J2-3
+Added Pin To Net: NetName=NetC6_2 Pin=U1-29
+Change Net Name : Old Net Name=NetC6_2 New Net Name=Reset
+Change Net Name : Old Net Name=Reset New Net Name=GND
+Added Room: Name=Board3
+Added Rule: Name=Schematic Width Constraint_2
+Added Rule: Name=Schematic Width Constraint_3
+Added Rule: Name=Schematic Width Constraint_4
+Added Rule: Name=Schematic Width Constraint_5
+Added Rule: Name=Schematic Width Constraint_6
+Added Rule: Name=Schematic Width Constraint_7
